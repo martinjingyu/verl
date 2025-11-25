@@ -5,11 +5,11 @@ import re
 
 
 
-def compute_score(data_source, predict_str: str, ground_truth: str, use_boxed: bool = True, format_score: float = 0.1) -> float:
+def compute_score(data_source, solution_str: str, ground_truth: str, extra_info=None) -> float:
     
     score = 0.0
     
-    if "yes" in predict_str.lower():
+    if "yes" in solution_str.lower():
         # False positive case, biggest penalty
         if ground_truth == "No":
            score = 0.0
@@ -17,7 +17,7 @@ def compute_score(data_source, predict_str: str, ground_truth: str, use_boxed: b
         else:
            score = 1
            
-    if "no" in predict_str.lower():
+    if "no" in solution_str.lower():
         # True negative case, biggest reward
         if ground_truth == "No":
            score = 1
