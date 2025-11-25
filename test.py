@@ -4,7 +4,7 @@
 import argparse
 import os
 import pandas as pd
-
+import json
 def make_example_parquet(path: str):
     """生成一个示例 parquet 文件"""
     df = pd.DataFrame({
@@ -34,6 +34,7 @@ def read_parquet(path: str, engine: str = "pyarrow", columns=None, head: int = 5
         row = max(0, min(row, len(df)-1))
         print(f"\nFull row[{row}]:")
         print(df.iloc[row].to_string())  # 不截断、完整打印一条
+        print(json.dumps(df.iloc[row].to_dict(), indent=2, ensure_ascii=False))
 
     return df
 
