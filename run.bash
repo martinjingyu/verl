@@ -11,7 +11,6 @@ REWARD_NAME=compute_score            # 你 reward 里的函数名
 
 # ====== GRPO 训练 ======
 python -m verl.trainer.main_ppo \
-    trainer.use_critic=False \
     algorithm.adv_estimator=grpo \
     custom_reward_function.path=$REWARD_PATH \
     data.train_files=$TRAIN_FILE \
