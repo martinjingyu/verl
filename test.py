@@ -15,15 +15,26 @@ def make_example_parquet(path: str):
     df.to_parquet(path, index=False)
     return df
 
-def read_parquet(path: str, engine: str = "pyarrow", columns=None, head: int = 5):
-    """读取 parquet 并打印基本信息"""
+def read_parquet(path: str, engine: str = "pyarrow", columns=None, head: int = 5, row: int = 0):
+    """读取 parquet 并打印基本信息 + 完整打印一条记录"""
     df = pd.read_parquet(path, engine=engine, columns=columns)
+
     print(f"[OK] Loaded parquet: {path}")
     print(f"Shape: {df.shape}")
     print("Dtypes:")
     print(df.dtypes)
+
     print(f"\nHead({head}):")
     print(df.head(head))
+
+    # ===== 完整打印一条 =====
+    if len(df) == 0:
+        print("\n[WARN] parquet is empty.")
+    else:
+        row = max(0, min(row, len(df)-1))
+        print(f"\nFull row[{row}]:")
+        print(df.iloc[row].to_string())  # 不截断、完整打印一条
+
     return df
 
 def main():
