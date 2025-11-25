@@ -50,6 +50,6 @@ python -m verl.trainer.main_ppo \
     trainer.test_freq=5 \
     trainer.total_epochs=15 \
     actor_rollout_ref.actor.optim.optimizer=AdamW8bit \
-    actor_rollout_ref.actor.optim.optimizer_impl=bitsandbytes.optim \ 
+    actor_rollout_ref.actor.optim.optimizer_impl=bitsandbytes.optim \
     $@
     
