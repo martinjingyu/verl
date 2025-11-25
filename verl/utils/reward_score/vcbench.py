@@ -1,11 +1,7 @@
 
-import re
 
 
-
-
-
-def compute_score(data_source, solution_str: str, ground_truth: str, extra_info=None) -> float:
+def compute_score(data_source, solution_str: str, ground_truth: str, extra_info=None, **kwargs) -> float:
     
     score = 0.0
     
