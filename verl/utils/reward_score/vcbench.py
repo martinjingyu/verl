@@ -5,7 +5,7 @@ import re
 
 
 
-def compute_score(predict_str: str, ground_truth: str, use_boxed: bool = True, format_score: float = 0.1) -> float:
+def compute_score(data_source, predict_str: str, ground_truth: str, use_boxed: bool = True, format_score: float = 0.1) -> float:
     
     score = 0.0
     
