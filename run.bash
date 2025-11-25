@@ -15,7 +15,7 @@ python -m verl.trainer.main_ppo \
     custom_reward_function.path=$REWARD_PATH \
     data.train_files=$TRAIN_FILE \
     data.val_files=$TEST_FILE \
-    data.train_batch_size=8 \
+    data.train_batch_size=4 \
     data.max_prompt_length=512 \
     data.max_response_length=512 \
     data.filter_overlong_prompts=True \
@@ -23,7 +23,7 @@ python -m verl.trainer.main_ppo \
     actor_rollout_ref.model.path=Qwen/Qwen3-8B \
     actor_rollout_ref.actor.optim.lr=1e-6 \
     actor_rollout_ref.model.use_remove_padding=True \
-    actor_rollout_ref.actor.ppo_mini_batch_size=8 \
+    actor_rollout_ref.actor.ppo_mini_batch_size=4 \
     actor_rollout_ref.actor.ppo_micro_batch_size_per_gpu=1 \
     actor_rollout_ref.actor.use_kl_loss=True \
     actor_rollout_ref.actor.kl_loss_coef=0.001 \
@@ -48,5 +48,8 @@ python -m verl.trainer.main_ppo \
     trainer.nnodes=1 \
     trainer.save_freq=20 \
     trainer.test_freq=5 \
-    trainer.total_epochs=15 $@
+    trainer.total_epochs=15 \
+    actor_rollout_ref.actor.optim.optimizer=AdamW8bit \
+    actor_rollout_ref.actor.optim.optimizer_impl=bitsandbytes.optim \
+    actor_rollout_ref.actor.optim.lr=1e-6 \ $@
     
