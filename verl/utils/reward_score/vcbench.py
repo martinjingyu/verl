@@ -11,7 +11,7 @@ def compute_score(predict_str: str, ground_truth: str, use_boxed: bool = True, f
     
     if "yes" in predict_str.lower():
         # False positive case, biggest penalty
-        if ground_truth == 0:
+        if ground_truth == "No":
            score = 0.0
         # True positive case, biggest reward
         else:
@@ -19,7 +19,7 @@ def compute_score(predict_str: str, ground_truth: str, use_boxed: bool = True, f
            
     if "no" in predict_str.lower():
         # True negative case, biggest reward
-        if ground_truth == 0:
+        if ground_truth == "No":
            score = 1
         # False negative case, medium penalty
         else:
