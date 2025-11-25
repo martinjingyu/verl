@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -e
+export VLLM_USE_FLASHINFER_SAMPLER=0
 export CUDA_VISIBLE_DEVICES=0,1
 # ====== 路径自己改 ======
 TRAIN_FILE=$PWD/data/vcbench/train.parquet
