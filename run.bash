@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e
-
+export CUDA_VISIBLE_DEVICES=0,1
 # ====== 路径自己改 ======
 TRAIN_FILE=$PWD/data/vcbench/train.parquet
 TEST_FILE=$PWD/data/vcbench/test.parquet
