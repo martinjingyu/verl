@@ -15,7 +15,7 @@ python -m verl.trainer.main_ppo \
     custom_reward_function.path=$REWARD_PATH \
     data.train_files=$TRAIN_FILE \
     data.val_files=$TEST_FILE \
-    data.train_batch_size=4 \
+    data.train_batch_size=8 \
     data.max_prompt_length=512 \
     data.max_response_length=512 \
     data.filter_overlong_prompts=True \
@@ -48,7 +48,7 @@ python -m verl.trainer.main_ppo \
     trainer.nnodes=1 \
     trainer.save_freq=20 \
     trainer.test_freq=5 \
-    trainer.total_epochs=15 \
+    trainer.total_epochs=5 \
     actor_rollout_ref.actor.optim.optimizer=AdamW8bit \
     actor_rollout_ref.actor.optim.optimizer_impl=bitsandbytes.optim \
     $@
