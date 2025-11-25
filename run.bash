@@ -13,7 +13,7 @@ REWARD_NAME=compute_score            # 你 reward 里的函数名
 PYTHONUNBUFFERED=1 python -m verl.trainer.main_ppo \
   data.train_files=$TRAIN_FILE \
   data.val_files=$TEST_FILE \
-  data.train_batch_size=8 \
+  data.train_batch_size=4 \
   data.max_prompt_length=1024 \
   data.max_response_length=256 \
   data.filter_overlong_prompts=True \
@@ -32,7 +32,7 @@ PYTHONUNBUFFERED=1 python -m verl.trainer.main_ppo \
   actor_rollout_ref.actor.entropy_coeff=0 \
   \
   actor_rollout_ref.rollout.name=vllm \
-  actor_rollout_ref.rollout.n=8 \
+  actor_rollout_ref.rollout.n=5 \
   actor_rollout_ref.rollout.log_prob_micro_batch_size_per_gpu=4 \
   actor_rollout_ref.rollout.tensor_model_parallel_size=2 \
   actor_rollout_ref.rollout.gpu_memory_utilization=0.35 \
