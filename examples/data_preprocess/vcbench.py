@@ -64,7 +64,7 @@ def build_verl_rows(df: pd.DataFrame, split: str, data_source: str):
         )
     return rows
 
-# python vcbench.py --csv_path VCbench.csv --local_save_dir /var/lib/condor/execute/slot1/dir_1843585/scratch/verl/data/vcbench
+# python vcbench.py --csv_path VCbench.csv --local_save_dir $PWD/verl/data/vcbench
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--csv_path", required=True, help="Path to vcbench.csv")
