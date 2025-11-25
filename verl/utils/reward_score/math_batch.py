@@ -24,3 +24,8 @@ def compute_score_batched(data_sources, solution_strs, ground_truths, extra_info
         compute_score(solution_str, ground_truth)
         for solution_str, ground_truth in zip(solution_strs, ground_truths, strict=True)
     ]
+    
+    
+def my_reward_fn(data_source, solution_str, ground_truth, extra_info=None):
+    
+  return len(solution_str)/100

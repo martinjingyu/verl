@@ -14,7 +14,7 @@
 """
 Preprocess the Geometry3k dataset to parquet format
 """
-
+# python geo3k.py --local_save_dir ~/data/geo3k
 import argparse
 import os
 
