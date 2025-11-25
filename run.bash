@@ -5,7 +5,7 @@ set -e
 TRAIN_FILE=$HOME/data/vcbench/train.parquet
 TEST_FILE=$HOME/data/vcbenchtest.parquet
 MODEL_PATH=Qwen/Qwen3-8B              # 或 /your/local/Qwen3-8B
-REWARD_PATH=/verl/utils/reward_score/vcbench.py
+REWARD_PATH=$PWD/verl/utils/reward_score/vcbench.py
 REWARD_NAME=compute_score            # 你 reward 里的函数名
 
 # ====== GRPO 训练 ======
