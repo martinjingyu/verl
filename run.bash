@@ -13,11 +13,11 @@ REWARD_NAME=compute_score            # 你 reward 里的函数名
 PYTHONUNBUFFERED=1 python -m verl.trainer.main_ppo \
   data.train_files=$TRAIN_FILE \
   data.val_files=$TEST_FILE \
-  data.train_batch_size=4 \
+  data.train_batch_size=16 \
   data.max_prompt_length=1024 \
   data.max_response_length=256 \
-  data.filter_overlong_prompts=False \
-  data.truncation='truncate' \
+  data.filter_overlong_prompts=True \
+  data.truncation='left' \
   \
   actor_rollout_ref.model.path=$MODEL_PATH \
   actor_rollout_ref.model.use_remove_padding=True \
