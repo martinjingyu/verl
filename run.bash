@@ -33,7 +33,7 @@ PYTHONUNBUFFERED=1 python -m verl.trainer.main_ppo \
   actor_rollout_ref.rollout.name=vllm \
   actor_rollout_ref.rollout.n=5 \
   actor_rollout_ref.rollout.log_prob_micro_batch_size_per_gpu=8 \
-  actor_rollout_ref.rollout.tensor_model_parallel_size=1 \
+  actor_rollout_ref.rollout.tensor_model_parallel_size=2 \
   actor_rollout_ref.rollout.gpu_memory_utilization=0.35 \
   \
   actor_rollout_ref.ref.log_prob_micro_batch_size_per_gpu=8 \
@@ -49,7 +49,7 @@ PYTHONUNBUFFERED=1 python -m verl.trainer.main_ppo \
   trainer.logger='["console"]' \
   trainer.project_name="vcbench_grpo" \
   trainer.experiment_name="qwen3_8b" \
-  trainer.n_gpus_per_node=1 \
+  trainer.n_gpus_per_node=2 \
   trainer.nnodes=1 \
   trainer.save_freq=50 \
   trainer.test_freq=10 \
