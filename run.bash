@@ -2,8 +2,8 @@
 set -e
 
 # ====== 路径自己改 ======
-TRAIN_FILE=$HOME/data/vcbench/train.parquet
-TEST_FILE=$HOME/data/vcbenchtest.parquet
+TRAIN_FILE=$PWD/data/vcbench/train.parquet
+TEST_FILE=$PWD/data/vcbench/test.parquet
 MODEL_PATH=Qwen/Qwen3-8B              # 或 /your/local/Qwen3-8B
 REWARD_PATH=$PWD/verl/utils/reward_score/vcbench.py
 REWARD_NAME=compute_score            # 你 reward 里的函数名
