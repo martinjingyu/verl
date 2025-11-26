@@ -47,7 +47,8 @@ python -m verl.trainer.main_ppo \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=200 \
-    actor_rollout_ref.actor.checkpoint.max_ckpt_to_keep=1 \
+    trainer.max_actor_ckpt_to_keep=1 \
+    trainer.max_critic_ckpt_to_keep=1 \
     trainer.test_freq=100 \
     trainer.total_epochs=3 \
     actor_rollout_ref.actor.optim.optimizer=AdamW8bit \
