@@ -15,7 +15,7 @@ python -m verl.trainer.main_ppo \
     custom_reward_function.path=$REWARD_PATH \
     data.train_files=$TRAIN_FILE \
     data.val_files=$TEST_FILE \
-    data.train_batch_size=8 \
+    data.train_batch_size=16 \
     data.max_prompt_length=512 \
     data.max_response_length=512 \
     data.filter_overlong_prompts=True \
@@ -46,9 +46,10 @@ python -m verl.trainer.main_ppo \
     trainer.experiment_name='qwen3_8b_vcbench' \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
-    trainer.save_freq=20 \
-    trainer.test_freq=5 \
-    trainer.total_epochs=5 \
+    trainer.save_freq=200 \
+    trainer.remove_previous_ckpt_in_save=True \
+    trainer.test_freq=100 \
+    trainer.total_epochs=3 \
     actor_rollout_ref.actor.optim.optimizer=AdamW8bit \
     actor_rollout_ref.actor.optim.optimizer_impl=bitsandbytes.optim \
     $@
