@@ -15,7 +15,7 @@ python -m verl.trainer.main_ppo \
     custom_reward_function.path=$REWARD_PATH \
     data.train_files=$TRAIN_FILE \
     data.val_files=$TEST_FILE \
-    data.train_batch_size=16 \
+    data.train_batch_size=32 \
     data.max_prompt_length=512 \
     data.max_response_length=512 \
     data.filter_overlong_prompts=True \
