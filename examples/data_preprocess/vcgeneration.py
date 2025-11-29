@@ -19,14 +19,12 @@ def extract_company_names(txt_path: str) -> List[str]:
         if "\t" in line:
             parts = line.split("\t")
         else:
-            # 按 >=2 个空格切分，避免把公司名里的单空格拆了（如果有的话）
             parts = re.split(r"\s{2,}", line)
 
         company = parts[0].strip()
         if company:
             names.append(company)
 
-    # 去重但保序
     seen = set()
     uniq = []
     for n in names:
@@ -63,13 +61,13 @@ Professional experience:
 * Software Engineer for <2 years in the `Wellness & Community Health` industry (2-10 employees)
 * Graduate Fellow (NSF) for 4-5 years in the `Environmental & Waste Services` industry (201-500 employees)
 
-Now generate 5 NEW founder descriptions for the following successful company:
+Now generate NEW founder descriptions for the following successful company:
 
 Company name: "{company_name}"
 
 You may assume plausible founder background for this company that matches real-world typical successful founders,
 but do NOT add any explicit success markers.
-Return ONLY the 5 descriptions, separated by a blank line.
+Return ONLY the descriptions, separated by a blank line.
 """
 
 
