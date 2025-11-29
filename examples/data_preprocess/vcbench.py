@@ -89,6 +89,25 @@ if __name__ == "__main__":
     split_idx = 3000
     df_train = df.iloc[:split_idx].reset_index(drop=True)
     df_test = df.iloc[split_idx:].reset_index(drop=True)
+    def repeat_ranges(df, ranges, times=10):
+        reps = []
+        n = len(df)
+        for (l, r) in ranges:
+            l = max(0, l)
+            r = min(n - 1, r)
+            if l <= r:
+                reps.append(df.iloc[l:r+1])
+        if not reps:
+            return df
+        to_repeat = pd.concat(reps, ignore_index=True)
+
+        # 复制 times-1 次（原本 df 里已有 1 份）
+        repeated = pd.concat([to_repeat] * (times - 1), ignore_index=True)
+        df_new = pd.concat([df, repeated], ignore_index=True)
+        return df_new
+    
+    repeat_ranges_list = [(0, 136), (1502, 1636)]
+    df_train = repeat_ranges(df_train, repeat_ranges_list, times=15)
     
     df_train = df_train.sample(frac=1.0, random_state=args.seed).reset_index(drop=True)
     

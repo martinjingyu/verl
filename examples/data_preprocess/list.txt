@@ -1,0 +1,1633 @@
+OpenAI	$500B	$58B	SoftBank	United States	North America
+ByteDance	$480B	$8B	Kohlberg Kravis Roberts Japan, Sequoia Capital	China	Asia
+SpaceX	$400B	$9B	Andreessen Horowitz	United States	North America
+Anthropic	$183B	$26B	Fidelity, ICONIQ Capital	United States	North America
+Ant Group	$150B	$19B	GIC, Temasek Holdings	China	Asia
+ Reliance Retail	$101B	$8B	Abu Dhabi Investment Authority	India	Asia
+ Databricks	$100B	$17B	Andreessen Horowitz, Insight Partners	United States	North America
+ Stripe	$92B	$9B	Andreessen Horowitz, Baillie Gifford	United States	North America
+ Revolut	$75B	$2B	Woodford Investment Management	United Kingdom	Europe
+ Shein	$66B	$4B	General Atlantic, HSG	China	Asia
+ Reliance Jio	$58B	$20B	Google	India	Asia
+ xAI	$50B	$18B	SpaceX	United States	North America
+ Waymo	$45B	$11B	Alphabet	United States	North America
+ Canva	$42B	$580M	Stack Capital	Australia	Oceania
+ Checkout.com	$40B	$2B	Tiger Global Management	United Kingdom	Europe
+ Ripple	$40B	$794M	Brevan Howard Asset Management, Fortress Investment Group	United States	North America
+ Figure	$39B	$2B	Parkway Venture Capital	United States	North America
+ JUUL	$38B	$15B	Altria	United States	North America
+ Ramp	$32B	$2B	Lightspeed Venture Partners	United States	North America
+ Safe Superintelligence	$32B	$3B	CoreNest Capital	United States	North America
+ Fanatics	$31B	$5B	Clearlake Capital Group	United States	North America
+ Anduril Industries	$31B	$6B	Founders Fund	United States	North America
+ Alibaba Bendi Shenghuo Fuwu Gongsi	$30B	$4B	Alibaba Group, SoftBank Vision Fund	China	Asia
+ Cruise	$30B	$9B	General Motors	United States	North America
+ Anysphere	$29B	$3B	Accel, Coatue	United States	North America
+ Scale AI	$29B	$16B	Meta	United States	North America
+ Yangtze Memory Technologies	$23B	$7B		China	Asia
+ Epic Games	$23B	$8B	The Walt Disney Company	United States	North America
+ BYJU'S	$22B	$5B	Qatar Investment Authority	India	Asia
+ Envision Group	$21B	$2B	GIC, HSG	China	Asia
+ FNZ	$20B	$4B	CPP Investments, Generation Investment Management	United Kingdom	Europe
+ Kraken	$20B	$1B	DRW Venture Capital, HSG	United States	North America
+ Perplexity	$20B	$1B	Accel	United States	North America
+ ChangXin Memory Technologies	$19B	$5B		China	Asia
+ JD Digits	$18B	$5B	APOFCO, CICC	China	Asia
+ Miro	$18B	$476M	ICONIQ Growth	United States	North America
+ Deel	$17B	$982M	Andreessen Horowitz, Coatue	United States	North America
+ Xiaohongshu	$17B	$918M	Temasek Holdings, Tencent	China	Asia
+ Yuanfudao	$17B	$4B	YF Capital	China	Asia
+ Rippling	$17B	$2B	Coatue	United States	North America
+ Trendyol Group	$17B	$2B	General Atlantic, SoftBank Vision Fund	Turkey	Europe
+ Yinwang Smart Technology	$16B	$3B	Seres Group	China	Asia
+ Applied Intuition	$15B	$1B	BlackRock, Kleiner Perkins	United States	North America
+ Bitmain	$15B	$765M	Crimson Ventures	China	Asia
+ CloudKitchens	$15B	$1B	Saudi Arabia's Public Investment Fund	United States	North America
+ Discord	$15B	$983M	Dragoneer Investment Group	United States	North America
+ Genki Forest	$15B	$721M	Temasek Holdings	China	Asia
+ PhonePe	$15B	$3B	General Atlantic	India	Asia
+ GAC Aion New Energy Automobile	$14B	$3B		China	Asia
+ Helsing	$14B	$2B	Prima Materia	Germany	Europe
+ Mistral AI	$14B	$3B	ASML	France	Europe
+ OpenSea	$13B	$427M	Coatue, Paradigm	United States	North America
+ Celonis	$13B	$2B	Qatar Investment Authority	Germany	Europe
+ Devoted Health	$13B	$2B	Fearless Ventures, GIC	United States	North America
+ Superhuman (formerly Grammarly)	$13B	$400M	Baillie Gifford, BlackRock	United States	North America
+ Infinite Reality	$12B	$3B		United States	North America
+ Biosplice Therapeutics	$12B	$778M	aMoon Fund, Eventide	United States	North America
+ GoodLeap	$12B	$0		United States	North America
+ Thinking Machines Lab	$12B	$2B	Andreessen Horowitz	United States	North America
+ Xingsheng Youxuan	$12B	$5B	Ontario Teachers' Pension Plan	China	Asia
+ Northvolt	$12B	$4B	La Caisse	Sweden	Europe
+ Airtable	$12B	$1B	XN	United States	North America
+ Dunamu	$12B	$741M	IMM Investment	South Korea	Asia
+ The Access Group	$12B	$1B	Hg, TA Associates	United Kingdom	Europe
+ Whatnot	$12B	$975M	CapitalG, DST Global	United States	North America
+ Bending Spoons	$11B	$616M	T. Rowe Price	Italy	Europe
+ Kalshi	$11B	$2B	CapitalG, Sequoia Capital	United States	North America
+ Oura	$11B	$1B	Fidelity	Finland	Europe
+ Bilt Rewards	$11B	$813M	General Catalyst, GID	United States	North America
+ Quantinuum	$11B	$900M	NVentures	United States	North America
+ Colossal Biosciences	$10B	$568M	Mark Walter, Thomas Tull	United States	North America
+ Notion	$10B	$343M	Coatue, Sequoia Capital	United States	North America
+ Alchemy	$10B	$564M	C1Fund	United States	North America
+ Cognition	$10B	$896M	Founders Fund	United States	North America
+ KuCoin	$10B	$180M	Susquehanna International Group	Seychelles	Africa
+ Chehaoduo	$10B	$4B	H Capital Advance, HSG	China	Asia
+ Crusoe Energy Systems	$10B	$3B	Mubadala Capital, Valor Equity Partners	United States	North America
+ Digital Currency Group	$10B	$0	OMERS Ventures	United States	North America
+ Lalamove	$10B	$2B	Hillhouse Investment, HSG	Hong Kong	Asia
+ Mercor	$10B	$484M	Felicis	United States	North America
+ Sierra	$10B	$635M	Greenoaks	United States	North America
+ Talkdesk	$10B	$497M	Transpose Platform Management	United States	North America
+ Thrasio	$10B	$2B	Advent International, Silver Lake	United States	North America
+ Zuoyebang	$10B	$3B	FountainVest Partners, Tiger Global Management	China	Asia
+ Mahindra Electric Automobile	$10B	$388M	Temasek Holdings	India	Asia
+ Neuralink	$10B	$1B	CoreNest Capital	United States	North America
+ Gusto	$10B	$746M	Friends & Family Capital	United States	North America
+ Vercel	$9B	$863M	Accel, GIC	United States	North America
+ Tata Passenger Electric Mobility	$9B	$989M	TPG Rise Climate Fund	India	Asia
+ N26	$9B	$2B	Coatue, Third Point Ventures	Germany	Europe
+ HeyTea	$9B	$594M	Coatue, Hillhouse Investment	China	Asia
+ Niantic	$9B	$770M	Coatue	United States	North America
+ Octopus Energy Group	$9B	$3B	CPP Investments	United Kingdom	Europe
+ Polymarket	$9B	$2B	Intercontinental Exchange	United States	North America
+ Tanium	$9B	$775M	Salesforce Ventures	United States	North America
+ VAST Data	$9B	$381M	Fidelity	United States	North America
+ Yanolja	$9B	$2B	SoftBank Vision Fund	South Korea	Asia
+ EV Co	$9B	$486M		India	Asia
+ Ping An Healthcare Management	$9B	$1B	SBI Group, SoftBank Vision Fund	China	Asia
+ Gopuff	$9B	$4B	Eldridge Industries, Valor Equity Partners	United States	North America
+ Personio	$8B	$724M	Greenoaks	Germany	Europe
+ Bolt	$8B	$2B	Fidelity, Sequoia Capital	Estonia	Europe
+ Tipalti	$8B	$549M	G Squared	United States	North America
+ The CrownX	$8B	$750M	Alibaba Group, BPEA EQT	Vietnam	Asia
+ Cerebras Systems	$8B	$2B	Atreides Management, Fidelity	United States	North America
+ DJI	$8B	$105M	Accel	China	Asia
+ FalconX	$8B	$474M	B Capital, GIC	United States	North America
+ Fireblocks	$8B	$1B	D1 Capital Partners, Spark Capital	United States	North America
+ Flexport	$8B	$2B	Shopify	United States	North America
+ Harvey	$8B	$1B	Andreessen Horowitz	United States	North America
+ Reflection.Ai	$8B	$2B	NVIDIA	United States	North America
+ StarkWare Industries	$8B	$261M	Alameda Research, Coatue	Israel	Asia
+ THG Ingenuity	$8B	$2B	SoftBank	United Kingdom	Europe
+ Dream11	$8B	$1B	Alpha Wave Global, D1 Capital Partners	India	Asia
+ CALB	$8B	$2B		China	Asia
+ AutoStore	$8B	$0		Norway	Europe
+ Jiedaibao	$8B	$694M		China	Asia
+ Dapper Labs	$8B	$613M	Coatue	Canada	North America
+ Flock Safety	$8B	$656M	Andreessen Horowitz	United States	North America
+ iCapital Network	$8B	$2B	SurgoCap Partners, T. Rowe Price	United States	North America
+ Upgrade	$7B	$752M	Neuberger Berman	United States	North America
+ Carta	$7B	$1B	Silver Lake	United States	North America
+ Snyk	$7B	$1B	ServiceNow	United States	North America
+ Brex	$7B	$1B	Tiger Global Management		
+ Kakao Japan	$7B	$652M	Anchor Equity Partners	Japan	Asia
+ Gong	$7B	$583M	Franklin Templeton	United States	North America
+ Glean	$7B	$768M	Wellington Management	United States	North America
+ Wealthsimple	$7B	$1B	Dragoneer Investment Group, GIC	Canada	North America
+ Attentive	$7B	$863M	Coatue	United States	North America
+ Blockchain.com	$7B	$600M	Kingsway Capital	United Kingdom	Europe
+ Cohere	$7B	$2B	Business Development Bank of Canada, Nexxus Capital Management	Canada	North America
+ Cohesity	$7B	$810M	Haveli Investments	United States	North America
+ ConsenSys	$7B	$660M	ParaFi Capital	United States	North America
+ Constellation Automotive Group	$7B	$1B		United Kingdom	Europe
+ Impossible Foods	$7B	$2B	Mirae Asset	United States	North America
+ Meicai	$7B	$1B	Hillhouse Investment, Shunwei Capital	China	Asia
+ NYDIG	$7B	$1B	WestCap	United States	North America
+ PsiQuantum	$7B	$2B	Baillie Gifford, BlackRock	United States	North America
+ Ro	$7B	$1B	ShawSpring Partners	United States	North America
+ The Boring Company	$7B	$908M	Sequoia Capital, Vy Capital	United States	North America
+ Wonder	$7B	$2B	New Enterprise Associates	United States	North America
+ Zepto	$7B	$2B	CalPERS	India	Asia
+ Toss	$7B	$1B	Tonic Private Equity	South Korea	Asia
+ Groq	$7B	$2B	Disruptive	United States	North America
+ 1Password	$7B	$920M	ICONIQ Growth	Canada	North America
+ Automation Anywhere	$7B	$853M	Arctic Ventures, Mindrock Capital	United States	North America
+ WeDoctor	$7B	$1B	HSG, Millennium Management	China	Asia
+ Ola	$7B	$4B	Arrow Capital Partners, Axis Asset Management Company	India	Asia
+ Ziroom	$7B	$2B	SoftBank Vision Fund	China	Asia
+ Razorpay	$7B	$742M	Alkeon Capital, Lone Pine Capital	India	Asia
+ Snapdeal	$7B	$2B	Anand Piramal	India	Asia
+ Mollie	$6B	$928M	Blackstone Group	The Netherlands	Europe
+ Doctolib	$6B	$815M	Eurazeo	France	Europe
+ ClickHouse	$6B	$650M	Khosla Ventures	United States	North America
+ GTA Semiconductor	$6B	$3B	SAIC Venture Capital	China	Asia
+ DataRobot	$6B	$1B	Altimeter Capital, Tiger Global Management	United States	North America
+ Airwallex	$6B	$1B	Square Peg Capital	Australia	Oceania
+ Hello TransTech	$6B	$2B	Alibaba Group	China	Asia
+ Armis	$6B	$1B	Goldman Sachs Growth Equity	United States	North America
+ Benchling	$6B	$412M	Altimeter Capital, Franklin Templeton	United States	North America
+ Plaid	$6B	$1B	Franklin Templeton	United States	North America
+ CMC	$6B	$2B	Alibaba Group, Tencent	China	Asia
+ Lianjia	$6B	$1B	Vanke	China	Asia
+ Changxin New Bridge	$6B	$2B	China Integrated Circuit Industry Investment Fund (CICF)	China	Asia
+ Biocon Biologics	$6B	$482M	Serum Life Sciences	India	Asia
+ Commure	$6B	$821M	General Catalyst	United States	North America
+ Cyera	$6B	$1B	Georgian, Greenoaks	United States	North America
+ Grafana Labs	$6B	$805M	Lightspeed Venture Partners	United States	North America
+ Nuro	$6B	$2B	Tiger Global Management	United States	North America
+ OpenEvidence	$6B	$517M	GV	United States	North America
+ Redwood Materials	$6B	$2B	Eclipse Ventures	United States	North America
+ Animoca Brands	$6B	$811M	Futureverse	Hong Kong	Asia
+ Monzo	$6B	$2B	CapitalG	United Kingdom	Europe
+ Lyra Health	$6B	$910M	Dragoneer Investment Group	United States	North America
+ SandboxAQ	$6B	$950M	Eric Schmidt Angel Investments	United States	North America
+ Cityblock Health	$6B	$891M	SoftBank	United States	North America
+ Workato	$6B	$415M	Battery Ventures	United States	North America
+ Back Market	$6B	$1B	Sprints	France	Europe
+ RELEX Solutions	$6B	$803M	BP	Finland	Europe
+ Contentsquare	$6B	$1B	Sixth Street	France	Europe
+ Fivetran	$6B	$728M	Andreessen Horowitz	United States	North America
+ Physical Intelligence	$6B	$1B	CapitalG	United States	North America
+ Postman	$6B	$433M	Insight Partners	United States	North America
+ SVOLT	$6B	$3B	Bank of China Group Investment	China	Asia
+ Mambu	$6B	$448M	EQT	Germany	Europe
+ Vuori	$6B	$445M	SoftBank Vision Fund	United States	North America
+ Helion Energy	$5B	$1B	Nucor Corporation	United States	North America
+ Vinted	$5B	$562M	EQT	Lithuania	Europe
+ Trade Republic	$5B	$1B	Ontario Teachers' Pension Plan	Germany	Europe
+ Rappi	$5B	$2B	Amazon	Colombia	South America
+ Abridge	$5B	$758M	Andreessen Horowitz, Khosla Ventures	United States	North America
+ Shield AI	$5B	$1B	Hanwha Aerospace, L3Harris Technologies	United States	North America
+ Sierra Space	$5B	$2B	Kanematsu Corporation, MUFG Bank	United States	North America
+ Odoo	$5B	$513M	General Atlantic	Belgium	Europe
+ Collibra	$5B	$597M	Sequoia Capital Global Equities, Sofina	Belgium	Europe
+ Xiaodu	$5B	$0	China Structural Reform Fund	China	Asia
+ 6sense	$5B	$426M	Blue Owl, MSD Partners	United States	North America
+ Faire	$5B	$2B	Shopify	United States	North America
+ MTN Group Fintech	$5B	$199M	Mastercard	South Africa	Africa
+ Abnormal AI	$5B	$534M	Wellington Management	United States	North America
+ QuintoAndar	$5B	$755M	4equity - Media Ventures	Brazil	South America
+ SambaNova	$5B	$1B	SoftBank Vision Fund	United States	North America
+ Supabase	$5B	$496M	Accel, Peak XV Partners	United States	North America
+ United Imaging Healthcare	$5B	$503M	SDIC Fund Management	China	Asia
+ C6 Bank	$5B	$2B	JP Morgan Chase	Brazil	South America
+ Apptronik	$5B	$763M	Humanoid Global	United States	North America
+ Beast Industries	$5B	$450M	Alpha Wave Global	United States	North America
+ Clio	$5B	$2B	New Enterprise Associates	Canada	North America
+ Coalition	$5B	$785M	Mitsui Sumitomo Insurance Company	United States	North America
+ Cockroach Labs	$5B	$633M	Greenoaks	United States	North America
+ DataDirect Networks	$5B	$310M	Blackstone Group	United States	North America
+ Didi Woya	$5B	$2B	Guangzhou Automobile Group	China	Asia
+ Dream Games	$5B	$2B	CVC Capital Partners	Turkey	Europe
+ Hopper	$5B	$695M	Capital One Ventures	Canada	North America
+ Island	$5B	$810M	Coatue	United States	North America
+ Metropolis	$5B	$2B	LionTree	United States	North America
+ Moon Active	$5B	$0		Israel	Asia
+ NinjaOne	$5B	$762M	CapitalG, ICONIQ Growth	United States	North America
+ OfBusiness	$5B	$746M	Cornerstone Ventures	India	Asia
+ PointClickCare	$5B	$230M	Hellman & Friedman	Canada	North America
+ Royole Corporation	$5B	$492M	Yingke Capital	China	Asia
+ ShareChat	$5B	$2B	Times Internet	India	Asia
+ Skims	$5B	$926M	Goldman Sachs Alternatives	United States	North America
+ Tempo	$5B	$500M	Greenoaks, Thrive Capital	United States	North America
+ VerSe Innovation	$5B	$2B	CPP Investments, Google	India	Asia
+ WeBank	$5B	$183M	Tencent	China	Asia
+ WeWork China	$5B	$1B	Trustbridge Partners	China	Asia
+ Zepz	$5B	$882M	Accel	United Kingdom	Europe
+ Sunwoda Electric Vehicle Battery	$5B	$2B	GAC Group, Li Auto	China	Asia
+ Mynt	$5B	$475M	Bow Wave Capital Management, Insight Partners	Philippines	Asia
+ Cato Networks	$5B	$1B	ION Crossover Partners, Vitruvian Partners	Israel	Asia
+ Cerebral	$5B	$487M	SoftBank Vision Fund	United States	North America
+ Creditas	$5B	$874M	Andbank	Brazil	South America
+ Reify Health	$5B	$479M	Altimeter Capital, Coatue	United States	North America
+ Chipone Technology	$5B	$1B	Oceanpine Capital	China	Asia
+ Qonto	$5B	$710M	TCV	France	Europe
+ BetterUp	$5B	$570M	ICONIQ Growth, Lightspeed Venture Partners	United States	North America
+ Binance.US	$5B	$200M		United States	North America
+ Pleo	$5B	$428M	Coatue	Denmark	Europe
+ Sonar	$5B	$457M	Advent International, General Catalyst	Switzerland	Europe
+ Wireless Logic	$5B	$62M	Beyond Net Zero	United Kingdom	Europe
+ Checkr	$5B	$740M	Durable Capital Partners	United States	North America
+ Color	$5B	$482M	Kindred Ventures, T. Rowe Price	United States	North America
+ Lendable	$5B	$286M	Ontario Teachers' Pension Plan	United Kingdom	Europe
+ wefox	$5B	$1B	Deutsche Bank, UniCredit	Germany	Europe
+ iFood	$5B	$592M	Movile, Prosus	Brazil	South America
+ Chaos	$5B	$1B	Valor Equity Partners	United States	North America
+ Hugging Face	$5B	$395M	Salesforce Ventures	United States	North America
+ Manner	$5B	$0	Longzhu Capital	China	Asia
+ OneTrust	$5B	$1B	Generation Investment Management	United States	North America
+ Rapyd	$5B	$1B	Tal Ventures, Target Global	United Kingdom	Europe
+ Skild AI	$5B	$435M	NVIDIA, Samsung Electronics	United States	North America
+ Socure	$5B	$647M	Accel, T. Rowe Price	United States	North America
+ Tabby	$5B	$604M	Blue Pool Capital, Hassana Investment Company (HIC)	United Arab Emirates	Asia
+ Tricentis	$5B	$2B	GTCR	United States	North America
+ Verkada	$5B	$644M	General Catalyst	United States	North America
+ VIPKID	$5B	$1B	Tencent	China	Asia
+ Guild	$4B	$643M	Wellington Management	United States	North America
+ Alan	$4B	$752M	Belfius Bank	France	Europe
+ Zhiji Auto	$4B	$2B	Bank of China Financial Assets Investment	China	Asia
+ Ruipeng Pet Healthcare	$4B	$37M	Nestlé Health Science	China	Asia
+ Lightmatter	$4B	$822M	T. Rowe Price	United States	North America
+ Outreach	$4B	$489M	Premji Invest, Steadfast Capital Management	United States	North America
+ Arctic Wolf	$4B	$498M	Blue Owl Capital Corporation	United States	North America
+ Entrata	$4B	$707M	Blackstone Group	United States	North America
+ Liftoff	$4B	$7M	General Atlantic	United States	North America
+ OutSystems	$4B	$802M	Kohlberg Kravis Roberts	United States	North America
+ Sorare	$4B	$739M	SoftBank	France	Europe
+ Voyah	$4B	$702M		Japan	Asia
+ Kakao Mobility	$4B	$1B	GS Retail	South Korea	Asia
+ G-P/Globalization Partners	$4B	$350M	Vista Credit Partners	United States	North America
+ Relativity Space	$4B	$1B	Fidelity	United States	North America
+ ThoughtSpot	$4B	$664M	March Capital	United States	North America
+ Zipline	$4B	$813M	Baillie Gifford, Katalyst Ventures	United States	North America
+ CMR Surgical	$4B	$1B	Ally Bridge Group, SoftBank Vision Fund	United Kingdom	Europe
+ Vanta	$4B	$503M	Wellington Management	United States	North America
+ Hithium Energy Storage	$4B	$899M	Beijing Financial Street Capital Operation Center, China Life Private Equity Investment	China	Asia
+ SSENSE	$4B	$0	HSG	Canada	North America
+ AngelList	$4B	$170M	Accomplice, Tiger Global Management	United States	North America
+ Bitpanda	$4B	$554M	Valar Ventures	Austria	Europe
+ Dataminr	$4B	$1B	HSBC, NightDragon	United States	North America
+ SumUp	$4B	$989M	Sixth Street	United Kingdom	Europe
+ Weee!	$4B	$863M	SoftBank Vision Fund	United States	North America
+ AlphaSense	$4B	$1B	BDT & MSD Partners, Viking Global Investors	United States	North America
+ Aptos	$4B	$350M	YZi Labs	United States	North America
+ Aurora Solar	$4B	$523M	Coatue, Energize Capital	United States	North America
+ Base Power	$4B	$1B	Addition	United States	North America
+ Branch	$4B	$667M	New Enterprise Associates	United States	North America
+ BrowserStack	$4B	$250M	Bond	Ireland	Europe
+ ClickUp	$4B	$535M	Andreessen Horowitz, Tiger Global Management	United States	North America
+ Clubhouse	$4B	$110M	Andreessen Horowitz, Tiger Global Management	United States	North America
+ Fal	$4B	$447M	Kleiner Perkins, Sequoia Capital	United States	North America
+ Fireworks AI	$4B	$307M	Evantic Capital, Index Ventures	United States	North America
+ Houzz	$4B	$614M	ICONIQ Growth	United States	North America
+ Inflection AI	$4B	$2B	Bill Gates, Eric Schmidt	United States	North America
+ Luma AI	$4B	$1B	HUMAIN	United States	North America
+ MEGVII	$4B	$1B	Bank of China Group Investment	China	Asia
+ MiniMax	$4B	$1B	SASAC	China	Asia
+ Patreon	$4B	$413M	Tiger Global Management	United States	North America
+ Radiology Partners	$4B	$2B	Starr Investment Holdings	United States	North America
+ Saronic	$4B	$845M	Elad Gil	United States	North America
+ Sword Health	$4B	$366M	General Catalyst	United States	North America
+ Synthesia	$4B	$537M	GV	United Kingdom	Europe
+ Tekion	$4B	$635M	Dragoneer Investment Group	United States	North America
+ The Brandtech Group	$4B	$725M	Chrysalis Investments	United States	North America
+ Webflow	$4B	$335M	Y Combinator Continuity Fund	United States	North America
+ Yuga Labs	$4B	$450M	a16z crypto	United States	North America
+ Zapier	$4B	$1M		United States	North America
+ insightsoftware	$4B	$799M	Hg	United States	North America
+ Hozon	$4B	$4B	CRRC, Shenzhen Capital Group	China	Asia
+ Medlinker	$4B	$762M	Sino Biopharmaceutical	China	Asia
+ Firmus Technologies	$4B	$547M	Ellerston Capital	Australia	Oceania
+ Farmers Business Network	$4B	$968M	Fidelity	United States	North America
+ Yunwang Wandian	$4B	$912M	Shenzhen Capital Group	China	Asia
+ StockX	$4B	$495M	Altimeter Capital	United States	North America
+ OYO	$4B	$3B	Redsprig Innovation Partners	India	Asia
+ Qontigo	$4B	$720M	General Atlantic	Germany	Europe
+ ENOVATE Motors	$4B	$1B		China	Asia
+ Articulate	$4B	$2B	General Atlantic	United States	North America
+ Dutchie	$4B	$603M	D1 Capital Partners	United States	North America
+ Avride	$4B	$800M	Nebius Group, Uber	United States	North America
+ Dataiku	$4B	$847M	Wellington Management	United States	North America
+ Goat Group	$4B	$493M	Park West Asset Management	United States	North America
+ Harness	$4B	$370M	Norwest	United States	North America
+ Noom	$4B	$659M	Silver Lake	United States	North America
+ o9 Solutions	$4B	$533M	Beyond Net Zero	United States	North America
+ Papaya Global	$4B	$440M	Insight Partners	United States	North America
+ Upstox	$4B	$143M	Tiger Global Management	India	Asia
+ Learneo	$4B	$492M	Wellington Management	United States	North America
+ Relativity	$4B	$125M	Silver Lake	United States	North America
+ SpotOn	$4B	$918M	Dragoneer Investment Group	United States	North America
+ WHOOP	$4B	$404M	SoftBank Vision Fund	United States	North America
+ Aptean	$4B	$50M	Clearlake Capital Group	United States	North America
+ CRED	$4B	$874M	Lathe Investment	India	Asia
+ Aledade	$4B	$678M	Lightspeed Venture Partners	United States	North America
+ Celestia	$4B	$157M	Bain Capital Crypto	Liechtenstein	Europe
+ Chainguard	$4B	$612M	IVP, Kleiner Perkins	United States	North America
+ Chargebee	$4B	$468M	Peak XV Partners, Tiger Global Management	United States	North America
+ Cribl	$4B	$602M	GV	United States	North America
+ GrubMarket	$4B	$549M	301	United States	North America
+ Handshake	$4B	$434M	Coatue, Valiant Peregrine Fund	United States	North America
+ Highspot	$4B	$643M	B Capital, D1 Capital Partners	United States	North America
+ Hippocratic AI	$4B	$402M	Avenir	United States	North America
+ Meesho	$4B	$1B	B Capital, Fidelity	India	Asia
+ Mercury	$4B	$452M	Sequoia Capital	United States	North America
+ Mirakl	$4B	$948M	Silver Lake	France	Europe
+ Rec Room	$4B	$294M	Coatue	United States	North America
+ Rokt	$4B	$487M	Tiger Global Management	United States	North America
+ Vultr	$4B	$333M	AMD Ventures, LuminArx Capital Management LP	United States	North America
+ Quantum Systems	$3B	$566M	Balderton Capital	Germany	Europe
+ Innovaccer	$3B	$654M	Mubadala Capital Ventures	United States	North America
+ Unacademy	$3B	$789M	Temasek Holdings	India	Asia
+ Baichuan Intelligence	$3B	$740M	Alibaba Group, Tencent	China	Asia
+ GoStudent	$3B	$780M	Prosus	Austria	Europe
+ HighRadius	$3B	$475M	D1 Capital Partners, Tiger Global Management	United States	North America
+ Hive Box	$3B	$1B	Asia Forge (Cayman), Trustbridge Partners	China	Asia
+ MoonPay	$3B	$680M	Coatue, Tiger Global Management	United States	North America
+ ReliaQuest	$3B	$830M	EQT, FTV Capital	United States	North America
+ Starburst	$3B	$414M	Citi	United States	North America
+ Starling Bank	$3B	$956M	Goldman Sachs	United Kingdom	Europe
+ Zhizi Automobile	$3B	$150M	Enterprise Mixed Ownership Reform Fund, SASAC	China	Asia
+ Carbon Health	$3B	$623M	CVS Health Ventures	United States	North America
+ CARS24	$3B	$1B	Global Car Group	India	Asia
+ ElevenLabs	$3B	$281M	NVIDIA	United States	North America
+ Komodo Health	$3B	$514M	Coatue	United States	North America
+ Moonshot AI	$3B	$2B	Alibaba Group, HSG	China	Asia
+ Sinovac Life Sciences	$3B	$500M	Sino Biopharmaceutical	China	Asia
+ Spring Health	$3B	$467M	Generation Investment Management	United States	North America
+ Together AI	$3B	$534M	Alumni Ventures, General Catalyst	United States	North America
+ Uber Freight	$3B	$1B	Greenbriar Equity Group	United States	North America
+ Du Xiaoman Financial	$3B	$2B	TPG	China	Asia
+ Zhuzhou CRRC Times Semiconductor	$3B	$28M	Zhuzhou CRRC Times Electric	China	Asia
+ Addepar	$3B	$761M	Vitruvian Partners, WestCap	United States	North America
+ Blockdaemon	$3B	$431M	Sapphire Ventures, Tiger Global Management	United States	North America
+ Judi Health	$3B	$588M	General Catalyst, Wellington Management	United States	North America
+ Qi An Xin	$3B	$536M	Everest Venture Capital	China	Asia
+ Wanda E-Commerce	$3B	$975M	WANDA Group	China	Asia
+ Aiven	$3B	$420M	Eurazeo	Finland	Europe
+ ApplyBoard	$3B	$480M	Teachers’ Venture Growth	Canada	North America
+ Blockstream	$3B	$299M	Fulgur Ventures	Canada	North America
+ Cedar	$3B	$394M	Memorial Hermann Foundation	United States	North America
+ Eruditus Executive Education	$3B	$741M	The Rise Fund	India	Asia
+ Ironclad	$3B	$334M	Franklin Templeton	United States	North America
+ Retool	$3B	$141M	Sequoia Capital	United States	North America
+ Thumbtack	$3B	$698M	Qatar Investment Authority	United States	North America
+ Etraveli	$3B	$0	Kohlberg Kravis Roberts	Sweden	Europe
+ Clay	$3B	$202M	CapitalG	United States	North America
+ Decart	$3B	$156M	Benchmark	United States	North America
+ Nuvemshop	$3B	$628M	Insight Partners, Tiger Global Management	Brazil	South America
+ Plata	$3B	$410M	Kora, Moore Strategic Ventures	Mexico	North America
+ Zetwerk	$3B	$754M	ARC Investments, Oriental Biotech	India	Asia
+ Nscale	$3B	$2B	Aker	United Kingdom	Europe
+ Lionheart Studio	$3B	$9M	Kakao Games, Wemade	South Korea	Asia
+ ActiveCampaign	$3B	$360M	Tiger Global Management	United States	North America
+ Age of Learning	$3B	$500M	TPG	United States	North America
+ Alibaba Music	$3B	$0		China	Asia
+ Amber Group	$3B	$628M	Fenbushi Capital	Hong Kong	Asia
+ Anchorage Digital	$3B	$487M	Kohlberg Kravis Roberts	United States	North America
+ Automattic	$3B	$859M	Alta Park Capital, BlackRock	United States	North America
+ Bird	$3B	$1B	Spark Capital	The Netherlands	Europe
+ Calendly	$3B	$351M	OpenView	United States	North America
+ Contentful	$3B	$333M	Tiger Global Management	Germany	Europe
+ Cross River Bank	$3B	$775M	Andreessen Horowitz, Eldridge Industries	United States	North America
+ Didi Freight	$3B	$2B	CPE, IDG Capital	China	Asia
+ Filevine	$3B	$636M	Accel, Halo Experience Company	United States	North America
+ FlixBus	$3B	$1B	Canyon Partners	Germany	Europe
+ Flutterwave	$3B	$474M	B Capital	United States	North America
+ Forter	$3B	$525M	Tiger Global Management	United States	North America
+ Grab Financial Group	$3B	$4B	Hanwha Asset Management	Singapore	Asia
+ Group14 Technologies	$3B	$1B	SK	United States	North America
+ HistoSonics	$3B	$474M	Founders Fund, Thiel Bio	United States	North America
+ Human Interest	$3B	$890M	Morgan Stanley Tactical Value	United States	North America
+ iCIMS	$3B	$93M	TA Associates	United States	North America
+ iFIT	$3B	$580M	L Catterton	United States	North America
+ KK Group	$3B	$612M	JD.com	China	Asia
+ Lattice	$3B	$330M	Dragoneer Investment Group, Thrive Capital	United States	North America
+ LaunchDarkly	$3B	$330M	Lead Edge Capital	United States	North America
+ LayerZero Labs	$3B	$351M	OpenSea Ventures, The Spartan Group	Canada	North America
+ Lucid Software	$3B	$170M	ICONIQ Growth	United States	North America
+ Miaopai	$3B	$775M	SINA Corporation, Weibo	China	Asia
+ Nord Security	$3B	$209M	Warburg Pincus	Lithuania	Europe
+ ofo	$3B	$2B	Alibaba Group	China	Asia
+ Outschool	$3B	$240M	Bond, Tiger Global Management	United States	North America
+ Paytm Mall	$3B	$795M	eBay	India	Asia
+ Phantom	$3B	$268M	Paradigm, Sequoia Capital	United States	North America
+ PingCAP	$3B	$642M	GGV Capital, Sequoia Capital	United States	North America
+ Podium	$3B	$423M	Y Combinator Continuity Fund	United States	North America
+ Poolside	$3B	$626M	Bain Capital Ventures	United States	North America
+ Remote	$3B	$496M	SoftBank Vision Fund	United States	North America
+ Replit	$3B	$472M	Prysm Capital	United States	North America
+ Runway	$3B	$545M	General Atlantic	United States	North America
+ Seismic	$3B	$447M	Permira	United States	North America
+ Sentry	$3B	$217M	Accel, Bond	United States	North America
+ Tinder	$3B	$0	Benchmark	United States	North America
+ TradingView	$3B	$389M	Smash Capital	United Kingdom	Europe
+ VANCL	$3B	$522M	Jun Lei	China	Asia
+ Wildlife Studios	$3B	$260M	Vulcan Capital	Brazil	South America
+ World	$3B	$264M	Andreessen Horowitz	Germany	Europe
+ Improbable	$3B	$854M	Metaverse, MultiversX	United Kingdom	Europe
+ ABB E-Mobility	$3B	$358M			
+ Yipin Fresh	$3B	$659M	Capital Today, Tencent	China	Asia
+ Souche	$3B	$1B	5Y Capital, Primavera Capital Group	China	Asia
+ LY.com	$3B	$2B	Overseas Chinese Town Holdings	China	Asia
+ KoBold Metals	$3B	$1B	Durable Capital Partners, T. Rowe Price	United States	North America
+ DuerOS	$3B	$295M		China	Asia
+ Terminus Technologies	$3B	$813M	Microware	China	Asia
+ Loft	$3B	$888M	Baillie Gifford	Brazil	South America
+ RigUp	$3B	$722M	Baillie Gifford	United States	North America
+ China UnionPay Merchant Services	$3B	$319M	Everbright-IDG Industrial Fund	China	Asia
+ BharatPe	$3B	$600M	Tiger Global Management	India	Asia
+ DriveWealth	$3B	$551M	Accel, Insight Partners	United States	North America
+ Motive	$3B	$717M	Kleiner Perkins	United States	North America
+ Transmit Security	$3B	$583M	General Atlantic, Insight Partners	United States	North America
+ Sungrow New Energy	$3B	$119M		China	Asia
+ Zhipu AI	$3B	$1B	Pudong Chuangtou, ZJ Innopark (Zhangjiang Hi-Tech Park)	China	Asia
+ Icertis	$3B	$341M	B Capital	United States	North America
+ OakNorth	$3B	$1B	SoftBank Vision Fund	United Kingdom	Europe
+ OnePay	$3B	$366M	Ribbit Capital, Walmart	United States	North America
+ Infra.Market	$3B	$578M	Silver Line Homes	India	Asia
+ MUSINSA	$3B	$508M	Kohlberg Kravis Roberts	South Korea	Asia
+ Rakuten Securities	$3B	$0		Japan	Asia
+ Illumio	$3B	$558M	Thoma Bravo	United States	North America
+ MasterClass	$3B	$461M	Fidelity	United States	North America
+ Traveloka	$3B	$1B	PTT Oil and Retail Business Public Company	Indonesia	Asia
+ Ualá	$3B	$910M	TelevisaUnivision	Argentina	South America
+ Avatr	$3B	$2B	Changan Automobile	China	Asia
+ Ethos Life	$3B	$414M	SoftBank Vision Fund	United States	North America
+ HiBob	$3B	$574M	Alpha Wave Global, Farallon Capital Management	Israel	Asia
+ Nextiva	$3B	$200M	Goldman Sachs Asset Management	United States	North America
+ Thought Machine	$3B	$625M	Temasek Holdings	United Kingdom	Europe
+ TravelPerk	$3B	$730M	Atomico, EQT	Spain	Europe
+ X-energy	$3B	$2B	Jane Street Capital	United States	North America
+ Tenstorrent	$3B	$1B	AFW Partners, Samsung Securities	Canada	North America
+ Tridge	$3B	$114M	DS Asset Management	South Korea	Asia
+ Karrot Market	$3B	$235M	DST Global	South Korea	Asia
+ Backbase	$3B	$127M	Motive Partners	The Netherlands	Europe
+ Airtel Mobile Commerce BV	$3B	$300M	Mastercard	The Netherlands	Europe
+ Sourcegraph	$3B	$248M	Andreessen Horowitz	United States	North America
+ JumpCloud	$3B	$407M	Sapphire Ventures	United States	North America
+ project44	$3B	$943M	A.P. Moller Holding, Generation Investment Management	United States	North America
+ Axonius	$3B	$595M	Accel, Lightspeed Venture Partners	United States	North America
+ Clari	$3B	$496M	Blackstone Group	United States	North America
+ Moglix	$3B	$472M	Alpha Wave Global, Tiger Global Management	Singapore	Asia
+ Pendo	$3B	$367M	B Capital	United States	North America
+ Plume Design	$3B	$697M	SoftBank Vision Fund	United States	North America
+ Quantexa	$3B	$545M	Teachers’ Venture Growth	United Kingdom	Europe
+ Suning Sports	$3B	$600M	Alibaba Group, Goldman Sachs	China	Asia
+ unico IDtech	$3B	$337M	General Atlantic, SOFTBANK Latin America Ventures	Brazil	South America
+ ManoMano	$3B	$706M	Dragoneer Investment Group	France	Europe
+ Sakana AI	$3B	$229M	Global Brain Corporation, JAFCO	Japan	Asia
+ Fujian Deer Technology	$3B	$480M	National Manufacturing Transformation and Upgrading Fund	China	Asia
+ Jusda	$3B	$356M	China Life Insurance, CICC	China	Asia
+ BYTON	$3B	$1B	FAW Group, Marubeni	China	Asia
+ Celestial AI	$3B	$594M	Fidelity	United States	North America
+ Chainalysis	$3B	$537M	C1Fund	United States	North America
+ DriveNets	$3B	$587M	D2 Investments	Israel	Asia
+ Fetch	$3B	$582M	Hamilton Lane	United States	North America
+ Flow	$3B	$450M	Andreessen Horowitz	United States	North America
+ Function Health	$3B	$354M	Redpoint	United States	North America
+ Games24x7	$3B	$75M	Malabar Investment Advisors	India	Asia
+ Immutable Systems	$3B	$277M	Temasek Holdings	Australia	Oceania
+ Jetti Resources	$3B	$169M	BMW i Ventures	United States	North America
+ Lambda	$3B	$2B	TWG Global	United States	North America
+ MaintainX	$3B	$254M	Bessemer Venture Partners	United States	North America
+ Mavenir	$3B	$935M	Siris Capital Group	United States	North America
+ n8n	$3B	$258M	Accel	Germany	Europe
+ Peregrine Technologies	$3B	$250M	Sequoia Capital	United States	North America
+ Side	$3B	$264M	Tiger Global Management	United States	North America
+ SiFive	$3B	$366M	Coatue	United States	North America
+ Somatus	$3B	$465M	Wellington Management	United States	North America
+ StackAdapt	$3B	$537M	Teachers’ Venture Growth	Canada	North America
+ Syniverse	$3B	$753M	Twilio	United States	North America
+ Sysdig	$3B	$730M	Permira	United States	North America
+ Temporal Technologies	$3B	$350M	Tiger Global Management	United States	North America
+ Uniphore	$3B	$867M	AMD, Databricks Ventures	United States	North America
+ Varo Bank	$3B	$1B	Warburg Pincus	United States	North America
+ VistaJet	$3B	$150M	Rhône Group	United States	North America
+ Wormhole	$3B	$225M		Cayman Islands	North America
+ Autodoc	$2B	$0	Apollo	Germany	Europe
+ CoinDCX	$2B	$247M	Coinbase	India	Asia
+ Electrify America	$2B	$450M	Siemens Financial Services	United States	North America
+ Suno	$2B	$375M	Menlo Ventures	United States	North America
+ Fractal	$2B	$691M	TPG Capital Asia	United States	North America
+ Enpal	$2B	$644M	TPG	Germany	Europe
+ Star Charge	$2B	$125M	Hillhouse Investment	Singapore	Asia
+ ABL Space Systems	$2B	$459M	T. Rowe Price	United States	North America
+ BitSight	$2B	$398M	Moody's Investors Service	United States	North America
+ Carbon	$2B	$743M	Sequoia Capital	United States	North America
+ Exabeam	$2B	$391M	Blue Owl Capital Corporation	United States	North America
+ HoneyBook	$2B	$498M	Durable Capital Partners	United States	North America
+ LogicMonitor	$2B	$943M	Golub Capital, PSG Equity	United States	North America
+ Paxos	$2B	$543M	MercadoLibre	United States	North America
+ Trumid	$2B	$458M	Point Break Capital Management	United States	North America
+ Wellhub	$2B	$605M	EQT Growth, General Atlantic	United States	North America
+ BrewDog	$2B	$248M	TSG Consumer Partners	United Kingdom	Europe
+ Yitu Technology	$2B	$401M	Yichang Boyue Investment Management	China	Asia
+ Go1	$2B	$414M	Insight Partners	Australia	Oceania
+ Beijing Weilan New Energy Technology	$2B	$303M	Chengtong Mixed Reform	China	Asia
+ BGL Group	$2B	$696M	CPP Investments	United Kingdom	Europe
+ Latitude Financial Services	$2B	$0		Australia	Oceania
+ Coda	$2B	$715M	GIC, Insight Partners	Singapore	Asia
+ Divergent	$2B	$843M	Rochefort	United States	North America
+ Greenlight	$2B	$557M	Andreessen Horowitz	United States	North America
+ Headway	$2B	$326M	Spark Capital	United States	North America
+ Liquid AI	$2B	$293M	AMD Ventures	United States	North America
+ Mobile Premier League	$2B	$391M	Alameda Research	India	Asia
+ Rapido	$2B	$555M	Nexus Venture Partners	India	Asia
+ Uptake Technologies	$2B	$218M	Baillie Gifford	United States	North America
+ 1inch	$2B	$190M	Amber Group	United States	North America
+ Algolia	$2B	$334M	Lone Pine Capital	United States	North America
+ Story Protocol	$2B	$134M	Andreessen Horowitz	United States	North America
+ UpGrad	$2B	$722M	Temasek Holdings	India	Asia
+ Qianxun Spatial Intelligence	$2B	$278M	Beijing State-owned Capital Operations and Management	China	Asia
+ Huimin	$2B	$517M	Jinan Industrial Development Group	China	Asia
+ Aven	$2B	$252M	Khosla Ventures	United States	North America
+ Bitso	$2B	$315M	Coatue, Tiger Global Management	Mexico	North America
+ Bloomreach	$2B	$422M	Goldman Sachs Asset Management	United States	North America
+ Current	$2B	$602M	Andreessen Horowitz	United States	North America
+ Dialpad	$2B	$450M	ICONIQ Growth	United States	North America
+ EliseAI	$2B	$392M	Andreessen Horowitz	United States	North America
+ Employment Hero	$2B	$460M	TCV	Australia	Oceania
+ G7	$2B	$710M	CS Capital, Trustbridge Partners	China	Asia
+ Kavak	$2B	$2B	General Atlantic, SoftBank	Mexico	North America
+ Modern Treasury	$2B	$183M	Altimeter Capital	United States	North America
+ Newfront	$2B	$310M	B Capital, Goldman Sachs Asset Management	United States	North America
+ NuCom Group	$2B	$550M	General Atlantic	Germany	Europe
+ Skydio	$2B	$740M	Linse Capital	United States	North America
+ Strava	$2B	$152M	Sequoia Capital	United States	North America
+ Transcarent	$2B	$905M	62 Ventures, General Catalyst	United States	North America
+ Turing	$2B	$247M	Khazanah Nasional	United States	North America
+ Zip	$2B	$371M	Bond	United States	North America
+ Pennylane	$2B	$237M	CapitalG, Meritech Capital Partners	France	Europe
+ Market Kurly	$2B	$858M	Anchor Equity Partners	South Korea	Asia
+ Planet Payment	$2B	$21M	Michael Margolies	Ireland	Europe
+ Inari	$2B	$708M	Alexandria Venture Investments, Flagship Pioneering	United States	North America
+ Biren Technology	$2B	$785M	C Ventures, Country Garden	China	Asia
+ Chint Anneng Digital Energy	$2B	$729M		China	Asia
+ Baseten	$2B	$285M	Bond	United States	North America
+ CloudWalk	$2B	$345M	Coatue	Brazil	South America
+ JD Industry	$2B	$530M	Mubadala	China	Asia
+ Rimac Group	$2B	$876M	Goldman Sachs, SoftBank Vision Fund	Croatia	Europe
+ ABLY Corporation	$2B	$220M	Alibaba Group	South Korea	Asia
+ 2TM	$2B	$250M	MercadoLibre	Brazil	South America
+ bolttech	$2B	$640M	Dragon Fund	Singapore	Asia
+ Docker	$2B	$436M	Bain Capital Ventures	United States	North America
+ Eightfold AI	$2B	$397M	SoftBank Vision Fund	United States	North America
+ Engine	$2B	$221M	Permira	United States	North America
+ Forto	$2B	$593M	Disruptive	Germany	Europe
+ Gamma	$2B	$70M	Andreessen Horowitz	United States	North America
+ GoCardless	$2B	$529M	Permira	United Kingdom	Europe
+ Jeeves Inc.	$2B	$268M	Tencent	United States	North America
+ Medable	$2B	$507M	Blackstone Accelerates Growth, GSR Ventures	United States	North America
+ Recharge	$2B	$277M	Summit Partners	United States	North America
+ Taobao Movie	$2B	$260M	Ant Group, CDH Investments	China	Asia
+ China Fusion Energy	$2B	$2B		China	Asia
+ Unitree Robotics	$2B	$264M	China Mobile Innovation Industry Fund	China	Asia
+ Kong	$2B	$344M	Balderton Capital, Tiger Global Management	United States	North America
+ Runpeng Semiconductor	$2B	$2B	China Resources Microelectronics	China	Asia
+ PayFit	$2B	$496M	General Atlantic	France	Europe
+ Tianbing Technology	$2B	$589M	CITIC Construction Investment	China	Asia
+ Kin Insurance	$2B	$316M	Activate Capital Partners, QED Investors	United States	North America
+ Voodoo	$2B	$517M	Groupe Bruxelles Lambert	France	Europe
+ ZigBang	$2B	$282M	Shinhan Venture Investment	South Korea	Asia
+ Flash Express	$2B	$781M	Buer Capital	Thailand	Asia
+ Kunlun Core	$2B	$253M	Beijing Artificial Intelligence Industry Investment Fund	China	Asia
+ Kry	$2B	$728M	CPP Investments, Fidelity	Sweden	Europe
+ Kunlun	$2B	$0	CPE	China	Asia
+ 21.co	$2B	$35M	Marshall Wace	Switzerland	Europe
+ Acorns	$2B	$510M	TPG	United States	North America
+ Advance Intelligence Group	$2B	$616M	Northstar Group, Warburg Pincus	Singapore	Asia
+ Aleph Group	$2B	$495M	SMC	United States	North America
+ Apeel Sciences	$2B	$640M	Temasek Holdings	United States	North America
+ AppsFlyer	$2B	$293M	Salesforce Ventures	United States	North America
+ Aviatrix	$2B	$341M	TCV	United States	North America
+ Axiom Space	$2B	$500M	1789 Capital, Type One Ventures	United States	North America
+ BlaBlaCar	$2B	$464M	IFC	France	Europe
+ BlinkRx	$2B	$315M	1789 Capital	United States	North America
+ Calm	$2B	$218M	Lightspeed Venture Partners	United States	North America
+ CertiK	$2B	$300M	SoftBank Vision Fund, Tiger Global Management	United States	North America
+ Claroty	$2B	$740M	Delta-v Capital	United States	North America
+ Clear Street	$2B	$470M	Prysm Capital	United States	North America
+ Clip	$2B	$481M	Morgan Stanley Tactical Value	Mexico	North America
+ Cloudinary	$2B	$0		United States	North America
+ Copper	$2B	$266M	Alan Howard	United Kingdom	Europe
+ d-Matrix	$2B	$429M	Bullhound Capital, Temasek Holdings	United States	North America
+ DeepL	$2B	$400M	Index Ventures	Germany	Europe
+ Devo	$2B	$481M	Eurazeo	United States	North America
+ Drata	$2B	$328M	ICONIQ Growth, Notable Capital	United States	North America
+ Dremio	$2B	$410M	Adams Street Partners	United States	North America
+ Druva	$2B	$475M	La Caisse	United States	North America
+ EvenUp	$2B	$371M	Bessemer Venture Partners	United States	North America
+ Everlaw	$2B	$299M	TPG Growth	United States	North America
+ Farfetch China	$2B	$500M	Alibaba Group, Richemont	China	Asia
+ Feedzai	$2B	$352M	Explorer Investments, Iberis Capital	Portugal	Europe
+ Field AI	$2B	$405M	Bezos Expeditions, Prysm Capital	United States	North America
+ Firstp2p	$2B	$111M	CCB International	China	Asia
+ Formlabs	$2B	$251M	SoftBank Vision Fund	United States	North America
+ Framer	$2B	$161M	Atomico, Meritech Capital Partners	The Netherlands	Europe
+ GetYourGuide	$2B	$741M	Blue Pool Capital	Germany	Europe
+ Guoquan Shihui	$2B	$552M	CMB International Capital Corporation, Tiantu Capital	China	Asia
+ Hive	$2B	$121M	Glynn Capital Management	United States	North America
+ ID.me	$2B	$339M	Ribbit Capital	United States	North America
+ InMobi	$2B	$224M	Lightbox	India	Asia
+ Insider	$2B	$772M	General Atlantic	Singapore	Asia
+ Invisible Technologies	$2B	$108M	Vanara Capital	United States	North America
+ ISN Software Corporation	$2B	$0	Blackstone Group	United States	North America
+ Iterable	$2B	$342M	Viking Global Investors	United States	North America
+ Kajabi	$2B	$550M	Tiger Global Management	United States	North America
+ Keep	$2B	$614M	SoftBank Vision Fund	China	Asia
+ Lessen	$2B	$735M	Legacy Knight	United States	North America
+ Locus Robotics	$2B	$416M	G2 Venture Partners, Goldman Sachs Asset Management	United States	North America
+ Loggi	$2B	$507M	CapSur Capital	Brazil	South America
+ LTK	$2B	$315M	SoftBank Vision Fund	United States	North America
+ Lunar	$2B	$514M	Heartland	Denmark	Europe
+ Mafengwo	$2B	$503M	Guizhou Innovation Empowerment Big Data Investment Fund	China	Asia
+ Magic Leap	$2B	$4B	Saudi Arabia's Public Investment Fund	United States	North America
+ ManyPets	$2B	$483M	EQT	United Kingdom	Europe
+ Marshmallow	$2B	$161M	Portage Ventures	United Kingdom	Europe
+ Misfits Market	$2B	$527M	SoftBank Vision Fund	United States	North America
+ Moloco	$2B	$216M	Premier Partners	United States	North America
+ Momo	$2B	$434M	Mizuho Bank	Vietnam	Asia
+ Mural	$2B	$194M	Insight Partners, Tiger Global Management	United States	North America
+ Mysten Labs	$2B	$336M	FTX Ventures	United States	North America
+ Naixuecha	$2B	$216M	PAG	China	Asia
+ Neo4j	$2B	$631M	Noteus Partners	United States	North America
+ Netlify	$2B	$212M	Bessemer Venture Partners	United States	North America
+ OCSiAl Group	$2B	$265M	Da Vinci Capital	Luxembourg	Europe
+ OPay	$2B	$570M	SoftBank Vision Fund	Nigeria	Africa
+ Pantheon	$2B	$200M	SoftBank Vision Fund	United States	North America
+ Persona	$2B	$418M	Founders Fund, Ribbit Capital	United States	North America
+ Pipe	$2B	$316M	Greenspring Associates	United States	North America
+ Pivot Bio	$2B	$617M	DCVC, Temasek Holdings	United States	North America
+ Polygon	$2B	$451M	Mark Cuban	India	Asia
+ Redis	$2B	$356M	Tiger Global Management	United States	North America
+ ROX Motor	$2B	$1B	Shandong Weiqiao Pioneering Group	China	Asia
+ Saks.com	$2B	$500M	STORY3 Capital Partners	United States	North America
+ Salsify	$2B	$453M	TPG	United States	North America
+ ShiftKey	$2B	$300M	Lorient Capital	United States	North America
+ Sila	$2B	$1B	Sutter Hill Ventures, T. Rowe Price	United States	North America
+ SmartNews	$2B	$410M	Asian Capital Alliance, Japan Post Capital	Japan	Asia
+ Solugen	$2B	$642M	Kinnevik, Lowercarbon Capital	United States	North America
+ Stoke Space	$2B	$944M	US Innovative Technology Fund	United States	North America
+ The Bot Company	$2B	$300M	Greenoaks	United States	North America
+ To8to	$2B	$216M	HSG	China	Asia
+ Tradeshift	$2B	$931M	HSBC	United States	North America
+ Trax	$2B	$1B	BlackRock, SoftBank Vision Fund	Singapore	Asia
+ Trendy International Group	$2B	$200M	L Catterton Asia	China	Asia
+ Unqork	$2B	$365M	BlackRock	United States	North America
+ Verbit	$2B	$432M	Third Point Ventures	United States	North America
+ Virta Health	$2B	$373M	Tiger Global Management	United States	North America
+ Viva Wallet	$2B	$190M	JP Morgan	Greece	Europe
+ XINGYUN GROUP	$2B	$950M	Crescent Point, Harvest Global Investments	China	Asia
+ Xpansiv	$2B	$318M	Bank of America, Goldman Sachs	United States	North America
+ Zeta	$2B	$390M	Optum	United States	North America
+ Zilch	$2B	$590M	KKCG	United Kingdom	Europe
+ ICON	$2B	$507M	Norwest, Tiger Global Management	United States	North America
+ Preferred Networks	$2B	$350M	SBI Group	Japan	Asia
+ Clearco	$2B	$493M	Founders Circle Capital, Inovia Capital	Canada	North America
+ TIER Mobility	$2B	$587M	Mubadala Capital, SoftBank Vision Fund	Germany	Europe
+ Exotec	$2B	$447M	Goldman Sachs Asset Management	France	Europe
+ Ankorstore	$2B	$422M	Bond, Tiger Global Management	France	Europe
+ Avant	$2B	$654M	Ares Management	United States	North America
+ Sky Mavis	$2B	$311M	Binance	Vietnam	Asia
+ JOLED	$2B	$838M	CSOT	Japan	Asia
+ Vital Thin Film Materials	$2B	$813M	CICC	China	Asia
+ Roofstock	$2B	$365M	SoftBank Vision Fund	United States	North America
+ YinLong Group	$2B	$432M		China	Asia
+ SemiDrive	$2B	$504M	Shang Qi Capital	China	Asia
+ Tianyu Semiconductor	$2B	$177M		China	Asia
+ commercetools	$2B	$308M	Accel	Germany	Europe
+ Altruist	$2B	$602M	GIC	United States	North America
+ CoinSwitch	$2B	$302M	Andreessen Horowitz, Coinbase Ventures	India	Asia
+ ConcertAI	$2B	$300M	Sixth Street	United States	North America
+ JIANGXIAOBAI	$2B	$453M	China Renaissance	China	Asia
+ Material Bank	$2B	$323M	Brookfield Growth	United States	North America
+ MX Technologies	$2B	$450M	TPG	United States	North America
+ Writer	$2B	$326M	ICONIQ Growth, Premji Invest	United States	North America
+ DFINITY	$2B	$121M	Andreessen Horowitz, Polychain	Switzerland	Europe
+ Zhenkunxing	$2B	$999M	YF Capital	China	Asia
+ Volocopter	$2B	$544M	NEOM	Germany	Europe
+ SFCC	$2B	$817M		China	Asia
+ MegazoneCloud	$2B	$673M	IMM Private Equity, MBK Partners	South Korea	Asia
+ Ninja Van	$2B	$975M	Alibaba Group	Singapore	Asia
+ Olipop	$2B	$93M	J.P. Morgan Growth Equity Partners	United States	North America
+ Vast	$2B	$150M	IQT	United States	North America
+ bunq	$2B	$423M	Pollen Street Capital	The Netherlands	Europe
+ DailyPay	$2B	$264M	Carrick Capital Partners	United States	North America
+ Sineva	$2B	$253M	Peakview Capital	China	Asia
+ Diamond Foundry	$2B	$350M		United States	North America
+ Distyl AI	$2B	$202M	Khosla Ventures, Lightspeed Venture Partners	United States	North America
+ Fever	$2B	$514M	L Catterton, Point72	United States	North America
+ FullStory	$2B	$197M	Permira	United States	North America
+ Glossier	$2B	$266M	Lone Pine Capital	United States	North America
+ Kindbody	$2B	$206M	Morgan Health	United States	North America
+ Legora	$2B	$266M	Bessemer Venture Partners	Sweden	Europe
+ Lightricks	$2B	$305M	Hanaco Venture Capital, Insight Partners	Israel	Asia
+ Lovable	$2B	$222M	Accel	Sweden	Europe
+ Neko Health	$2B	$325M	Lightspeed Venture Partners	Sweden	Europe
+ Opentrons	$2B	$240M	SoftBank Vision Fund	United States	North America
+ Orca Security	$2B	$632M	Temasek Holdings	United States	North America
+ Quest Global	$2B	$731M	The Carlyle Group	Singapore	Asia
+ Scroll.io	$2B	$81M	Qiming Venture Partners	Seychelles	Africa
+ SJ Semi	$2B	$2B	Walden International	China	Asia
+ Strive Health	$2B	$686M	New Enterprise Associates	United States	North America
+ Udaan	$2B	$2B	Lightspeed Venture Partners, M&G Plc	India	Asia
+ Watershed	$2B	$239M	Greenoaks	United States	North America
+ Zocdoc	$2B	$374M	Francisco Partners	United States	North America
+ Meril Life	$2B	$200M	Warburg Pincus	India	Asia
+ Gousto	$2B	$372M	SoftBank Vision Fund	United Kingdom	Europe
+ Akulaku Group	$2B	$638M	Mitsubishi UFJ Financial Group	Indonesia	Asia
+ BitGo	$2B	$172M	Brink’s	United States	North America
+ Kaseya	$2B	$547M	TPG	Ireland	Europe
+ Spinny	$2B	$625M	Accel	India	Asia
+ Trulioo	$2B	$474M	TCV	Canada	North America
+ NantOmics	$2B	$251M	NantHealth	United States	North America
+ Flatpay	$2B	$294M	AVP	Denmark	Europe
+ Productboard	$2B	$261M	Dragoneer Investment Group, Tiger Global Management	United States	North America
+ Scalable Capital	$2B	$556M	Noteus Partners, Sofina	Germany	Europe
+ Alation	$2B	$315M	NTT DOCOMO Ventures	United States	North America
+ Carsome	$2B	$577M	65 Equity Partners, Qatar Investment Authority	Malaysia	Asia
+ CircleCI	$2B	$315M	Greenspring Associates	United States	North America
+ DispatchHealth	$2B	$733M	Optum Ventures	United States	North America
+ Dragos	$2B	$432M	WestCap	United States	North America
+ Front	$2B	$204M	Battery Ventures, Salesforce Ventures	United States	North America
+ Glance	$2B	$390M	Reliance Jio	Singapore	Asia
+ H2O.ai	$2B	$251M	Commonwealth Bank of Australia	United States	North America
+ Harry's	$2B	$907M	STORY3 Capital Partners	United States	North America
+ HomeLight	$2B	$299M	Zeev Ventures	United States	North America
+ Maropost	$2B	$0		Canada	North America
+ Maven Clinic	$2B	$417M	StepStone Group	United States	North America
+ Micro Connect	$2B	$578M	Jane Street Capital		
+ Multiverse	$2B	$419M	General Catalyst, Lightspeed Venture Partners	United Kingdom	Europe
+ PAX Labs	$2B	$2B	Tao Capital Partners, Tiger Global Management	United States	North America
+ Pax8	$2B	$342M	SoftBank Vision Fund	United States	North America
+ Razor Group	$2B	$355M	Presight Capital	Germany	Europe
+ Redesign Health	$2B	$315M	General Catalyst	United States	North America
+ Reltio	$2B	$237M	Brighton Park Capital	United States	North America
+ Spotter	$2B	$353M	SoftBank Vision Fund	United States	North America
+ VTS	$2B	$304M	Brookfield Growth	United States	North America
+ Wave Mobile Money	$2B	$210M	Alameda Research	Senegal	Africa
+ ZenBusiness	$2B	$277M	Oak HC/FT	United States	North America
+ Vestiaire Collective	$2B	$643M	Generation Investment Management, SoftBank Vision Fund	France	Europe
+ Tessera Therapeutics	$2B	$582M	Bill & Melinda Gates Foundation	United States	North America
+ Enflame	$2B	$746M	China Fintech Fund, Shanghai GuoHe Capital	China	Asia
+ DealShare	$2B	$378M	Alpha Wave Global, Tiger Global Management	India	Asia
+ SafetyCulture	$2B	$294M	Airtree Ventures	Australia	Oceania
+ Kredivo Group	$2B	$530M	Mizuho Bank	Indonesia	Asia
+ Dexterity	$2B	$291M	Kleiner Perkins, Lightspeed Venture Partners	United States	North America
+ Incredible Health	$2B	$100M	Base10 Partners	United States	North America
+ Kriya Therapeutics	$2B	$921M	Patient Square Capital, Premji Invest	United States	North America
+ Optimism	$2B	$179M	Andreessen Horowitz, Paradigm	United States	North America
+ Zelos	$2B	$500M	Ant Group	China	Asia
+ Zhubajie	$2B	$445M	Chongqing New North Zone Government Investment Fund, Cybernaut Venture Capital	China	Asia
+ Afiniti	$2B	$120M		Bermuda	North America
+ Apollo.io	$2B	$251M	Bain Capital Ventures	United States	North America
+ ASAPP	$2B	$380M	Dragoneer Investment Group, Fidelity	United States	North America
+ Aura	$2B	$663M	Madrone Capital Partners, Ten Eleven Ventures	United States	North America
+ Bianlifeng	$2B	$656M	Hillhouse Investment, Tencent	China	Asia
+ Capitolis	$2B	$338M	Citi, Morgan Stanley	United States	North America
+ Cart.com	$2B	$604M	Legacy Knight	United States	North America
+ Cresta	$2B	$276M	Qatar Investment Authority, World Innovation Lab	United States	North America
+ Cult.fit	$2B	$627M	LifeFit Group	India	Asia
+ DataStax	$2B	$343M	Goldman Sachs Growth Equity	United States	North America
+ Extend, Inc.	$2B	$320M	SoftBank Vision Fund	United States	North America
+ ezCater	$2B	$421M	SoftBank Vision Fund	United States	North America
+ FloQast	$2B	$303M	ICONIQ Growth	United States	North America
+ Magic Eden	$2B	$170M	Electric Capital, Greylock	United States	North America
+ MediTrust Health	$2B	$308M	HSBC China	China	Asia
+ Modular	$2B	$380M	US Innovative Technology Fund	United States	North America
+ Molbio Diagnostics	$2B	$117M	Temasek Holdings	India	Asia
+ Monte Carlo	$2B	$236M	IVP	United States	North America
+ Pathos	$2B	$447M	New Enterprise Associates	United States	North America
+ Pave	$2B	$163M	Index Ventures	United States	North America
+ Toss Bank	$2B	$949M	Welcome Capital	South Korea	Asia
+ Unite Us	$2B	$195M	ICONIQ Capital	United States	North America
+ Wayflyer	$2B	$236M	DST Global, QED Investors	Ireland	Europe
+ WEKA	$2B	$415M	Valor Equity Partners	United States	North America
+ AIWAYS	$2B	$792M	Fujian Dongbai (Group)	China	Asia
+ Kylinsoft	$2B	$418M	China National Software & Service Co., Ltd.	China	Asia
+ Ascend Elements	$2B	$1B	Decarbonization Partners, Qatar Investment Authority	United States	North America
+ GalaxySpace	$2B	$14M	CCB International	China	Asia
+ Fresh Life Style Supply Chain Management	$2B	$93M		China	Asia
+ Nexii	$2B	$113M	Horizon Technology Finance, Trinity Capital	Canada	North America
+ SmartHR	$2B	$322M	Kohlberg Kravis Roberts Japan, Teachers’ Venture Growth	Japan	Asia
+ Alloy	$2B	$213M	Avenir, Lightspeed Venture Partners	United States	North America
+ ESWIN Computing	$2B	$1B	Beijing Financial Street Capital Operation Center, Guoxin Zhuoyue Venture Capital	China	Asia
+ Kitopi	$2B	$804M	SoftBank Vision Fund	United Arab Emirates	Asia
+ NMI	$2B	$0	Great Hill Partners	United States	North America
+ Wellong Etown	$2B	$0	CCB International	China	Asia
+ Matrixport	$2B	$138M	C Ventures, DST Global	Singapore	Asia
+ Wenheyou	$2B	$91M	IDG Capital	China	Asia
+ CATL Intelligent	$2B	$279M			
+ Qinghai Lihao	$2B	$306M		China	Asia
+ Cognite	$2B	$225M	TCV	Norway	Europe
+ StoreDot	$2B	$184M	Ola Electric, Polestar	Israel	Asia
+ Main Street Health	$2B	$342M	Oak HC/FT	United States	North America
+ ElasticRun	$2B	$435M	Goldman Sachs, SoftBank Vision Fund	India	Asia
+ 1047 Games	$2B	$117M	Lightspeed Venture Partners	United States	North America
+ 5ire	$2B	$121M	SRAM & MRAM	United Kingdom	Europe
+ Airbyte	$2B	$181M	Altimeter Capital, Coatue	United States	North America
+ Anaconda	$2B	$233M	Insight Partners	United States	North America
+ Andela	$2B	$381M	SoftBank Vision Fund	United States	North America
+ Apollo GraphQL	$2B	$152M	Insight Partners	United States	North America
+ AppDirect	$2B	$431M	La Caisse	United States	North America
+ Arcadia	$2B	$540M	Macquarie Asset Management	United States	North America
+ Ascend Money	$2B	$345M	MUFG Bank	Thailand	Asia
+ Berachain	$2B	$142M	BH Digital, Framework Ventures	United States	North America
+ Boba Network	$2B	$115M	Awaken Foundation, LDA Capital	United States	North America
+ Built Technologies	$2B	$313M	Citi	United States	North America
+ Chapter	$2B	$184M	Stripes	United States	North America
+ Chunqing Technology	$2B	$435M	Hangzhou Hi-Tech Investment Holdings Group	China	Asia
+ CoinList	$2B	$119M	Accomplice, Agman Partners	United States	North America
+ Collective Health	$2B	$719M	Health Care Service Corporation	United States	North America
+ Culture Amp	$2B	$257M	HSG, TDM Growth Partners	Australia	Oceania
+ Decagon	$2B	$231M	Accel, Andreessen Horowitz	United States	North America
+ Dock	$2B	$280M	Lightrock, Silver Lake Waterman	Brazil	South America
+ Dt Dream	$2B	$267M	Zhejiang State Enterprise Reform and Development Fund, ZSVC	China	Asia
+ fabric	$2B	$294M	SoftBank Vision Fund	United States	North America
+ Fleetio	$2B	$620M	Elephant, Goldman Sachs Alternatives	United States	North America
+ HAI ROBOTICS	$2B	$285M	Capital Today	China	Asia
+ HashKey	$2B	$130M	Gaorong Capital	Hong Kong	Asia
+ Huntress	$2B	$270M	Kleiner Perkins, Meritech Capital Partners	United States	North America
+ impact.com	$2B	$361M	Qatar Investment Authority	United States	North America
+ Jasper	$2B	$131M	Insight Partners	Canada	North America
+ Kushki	$2B	$194M	Hedosophia, Kaszek	Ecuador	South America
+ Lighter	$2B	$89M	Founders Fund, Ribbit Capital	United States	North America
+ Lusha	$2B	$245M	PSG Equity	United States	North America
+ Mashgin	$2B	$74M	New Enterprise Associates	United States	North America
+ Matillion	$2B	$290M	Databricks Ventures	United Kingdom	Europe
+ MindMaze	$2B	$340M	Concord Health Partners	Switzerland	Europe
+ Mu Sigma	$2B	$212M	Mastercard	India	Asia
+ NextSilicon	$2B	$203M	Third Point Ventures	Israel	Asia
+ Ninja	$2B	$254M	Riyad Capital	Saudi Arabia	Asia
+ NotCo	$2B	$433M	Princeville Capital	Chile	South America
+ Olist	$2B	$320M	Wellington Management	Brazil	South America
+ OpenWeb	$2B	$393M	Georgian	United States	North America
+ Orna Therapeutics	$2B	$321M	Merck	United States	North America
+ Pacaso	$2B	$325M	SoftBank Vision Fund	United States	North America
+ Perfect Day	$2B	$802M	CPP Investments, Temasek Holdings	United States	North America
+ Placer.ai	$2B	$268M	Buckley Ventures, Josh Buckley	United States	North America
+ Prometheus	$2B	$150K	Maersk Growth	United States	North America
+ Rad Power Bikes	$2B	$329M	Fidelity	United States	North America
+ ShopMy	$2B	$175M	Avenir	United States	North America
+ Sigma Computing	$2B	$622M	Avenir, Spark Capital	United States	North America
+ slice	$2B	$307M	Tiger Global Management	India	Asia
+ Snapdocs	$2B	$253M	Tiger Global Management	United States	North America
+ Spark Education Group	$2B	$593M	Trustbridge Partners	China	Asia
+ SpreeAI	$2B	$15M		United States	North America
+ Stord	$2B	$405M	Strike Capital	United States	North America
+ Tide	$2B	$290M	The Rise Fund, TPG	United Kingdom	Europe
+ Tujia	$2B	$755M	All-Stars Investment, Trip.com	China	Asia
+ Tyme Group	$2B	$567M	Nubank	Singapore	Asia
+ Uplight	$2B	$0	AES, Huck Capital	United States	North America
+ Upside	$2B	$65M	General Catalyst	United States	North America
+ Uzum	$2B	$122M	Tencent, VR Capital Group	Uzbekistan	Asia
+ Vayyar	$2B	$296M	Koch Disruptive Technologies	Israel	Asia
+ Veho	$2B	$299M	SoftBank Vision Fund, Tiger Global Management	United States	North America
+ Veriff	$2B	$177M	Alkeon Capital, Tiger Global Management	Estonia	Europe
+ Xpressbees	$2B	$553M	Teachers’ Venture Growth	India	Asia
+ You.com	$2B	$195M	Cox Enterprises	United States	North America
+ Yubi	$2B	$235M	B Capital, Dragoneer Investment Group	India	Asia
+ Zenoti	$2B	$331M	TPG	United States	North America
+ SellerX	$1B	$830M	Sofina	Germany	Europe
+ PAPER	$1B	$390M	Sapphire Ventures, SoftBank Vision Fund	Canada	North America
+ InMyShow	$1B	$106M	SAIF Partners, SINA Corporation	China	Asia
+ eSign	$1B	$186M		China	Asia
+ Panshi	$1B	$655M	Cybernaut Venture Capital	China	Asia
+ Snack Is Busy	$1B	$199M	Haoxiangni Jujube Industry, Yankershop Food	China	Asia
+ Yuze Semiconductor	$1B	$177M		China	Asia
+ Huasun Energy	$1B	$629M	China Green Development Investment Group	China	Asia
+ Lead	$1B	$170M	Andreessen Horowitz, Khosla Ventures	United States	North America
+ Job&Talent	$1B	$993M	Kinnevik, SoftBank Vision Fund	Spain	Europe
+ Ouyeel	$1B	$468M		China	Asia
+ Tuandaiwang	$1B	$351M	China Minsheng Investment Group	China	Asia
+ United Aircraft	$1B	$459M	Longjiang Fund		
+ IAD France	$1B	$364M	Insight Partners	France	Europe
+ Aleo	$1B	$249M	Kora, SoftBank Vision Fund	United States	North America
+ Amagi Media Labs	$1B	$322M	General Atlantic	United States	North America
+ Harmonic	$1B	$295M	Ribbit Capital	United States	North America
+ M1 Holdings	$1B	$323M	SoftBank Vision Fund	United States	North America
+ Weidian Group	$1B	$368M	Tencent	China	Asia
+ Coocaa	$1B	$218M	Baidu	China	Asia
+ T3 Mobile Travel Services	$1B	$3B	CITIC Capital Holdings	China	Asia
+ Seasun Games	$1B	$143M	Tencent	China	Asia
+ Netradyne	$1B	$288M	Point72 Ventures	United States	North America
+ Judo Bank	$1B	$838M		Australia	Oceania
+ Ledger	$1B	$575M	Molten Ventures	France	Europe
+ Ryefield Energy	$1B	$142M	Sparkedge Capital	China	Asia
+ Soterea	$1B	$204M	Ping An Capital	China	Asia
+ Bordrin Motors	$1B	$362M		China	Asia
+ Zhuoyu Technology	$1B	$507M	FAW Group	China	Asia
+ Contemporary Amperex Intelligence Technology	$1B	$281M			
+ Tailscale	$1B	$276M	Accel	Canada	North America
+ AI21 Labs	$1B	$627M	Google, NVIDIA	Israel	Asia
+ Astranis	$1B	$703M	Andreessen Horowitz, BAM Elevate	United States	North America
+ Away	$1B	$181M	Wellington Management	United States	North America
+ Cabify	$1B	$472M	Mutua Madrileña	Spain	Europe
+ Clarify Health Solutions	$1B	$328M	SoftBank Vision Fund	United States	North America
+ Degreed	$1B	$390M	Riverwood Capital, Sapphire Ventures	United States	North America
+ Deliverect	$1B	$237M	Alkeon Capital, Coatue	Belgium	Europe
+ eFishery	$1B	$310M	G42 Expansion Fund	Indonesia	Asia
+ Envoy	$1B	$170M	Brookfield Growth	United States	North America
+ Eon	$1B	$197M	Bond	United States	North America
+ Epidemic Sound	$1B	$509M	Blackstone Group, EQT	Sweden	Europe
+ Figment	$1B	$164M	Thoma Bravo	United States	North America
+ Firebolt	$1B	$264M	Alkeon Capital	Israel	Asia
+ GupShup	$1B	$544M	Globespan Capital Partners	United States	North America
+ Liquid Death	$1B	$261M	Science		
+ LIQUiDITY Group	$1B	$114M	MUFG Bank	United States	North America
+ Maya	$1B	$502M	Susquehanna International Group	Philippines	Asia
+ Nium	$1B	$338M	Moore Strategic Ventures	Singapore	Asia
+ Paddle	$1B	$293M	Kohlberg Kravis Roberts	United Kingdom	Europe
+ Panther	$1B	$141M	Coatue	United States	North America
+ Papa	$1B	$241M	SoftBank Vision Fund	United States	North America
+ Phenom	$1B	$161M	B Capital	United States	North America
+ PostHog	$1B	$182M	Peak XV Partners	United States	North America
+ Pristyn Care	$1B	$181M	Sequoia Capital	India	Asia
+ Rebel Foods	$1B	$749M	Qatar Investment Authority	India	Asia
+ Rebellions	$1B	$458M	Arm Holdings, Samsung Ventures	South Korea	Asia
+ Route	$1B	$289M	Hanaco Venture Capital	United States	North America
+ Salt Security	$1B	$271M	CrowdStrike Falcon Fund	United States	North America
+ Stash	$1B	$572M	Goodwater Capital	United States	North America
+ Symphony Communication Services	$1B	$511M	Mitsubishi UFJ Financial Group, Standard Chartered Bank	United States	North America
+ TaxBit	$1B	$253M	IQT	United States	North America
+ Tripledot Studios	$1B	$252M	The Twenty Minute VC	United Kingdom	Europe
+ VideoAmp	$1B	$532M	Vista Credit Partners	United States	North America
+ Wealthfront	$1B	$205M	UBS	United States	North America
+ Yotpo	$1B	$436M	Shopify	United States	North America
+ Avathon	$1B	$286M	AEI Horizon X, Alan Howard	United States	North America
+ CanSemi	$1B	$981M	Guangzhou Industrial Investment Group	China	Asia
+ FPL Technologies	$1B	$254M	MacRitchie Investments	India	Asia
+ United Imaging Intelligence	$1B	$139M	E Fund, Shangguo Investment Management	China	Asia
+ Aragen Life Sciences	$1B	$125M	Quadria Capital	India	Asia
+ OVO Energy	$1B	$581M	Mitsubishi Corporation	United Kingdom	Europe
+ Neon	$1B	$852M	BBVA, Propel	Brazil	South America
+ Xingji Meizu	$1B	$276M	Asia Investment Fund, Harvest Global Investments	China	Asia
+ LONGi Hydrogen Energy	$1B	$138M			
+ Agibot	$1B	$85M	LG Electronics, Mirae Asset		
+ EverlyWell	$1B	$250M	Trish Costello	United States	North America
+ Narwal Robotics	$1B	$114M	Beijing Robot Industry Fund, Tencent	China	Asia
+ Included Health	$1B	$344M	The Carlyle Group	United States	North America
+ At-Bay	$1B	$296M	ION Crossover Partners	United States	North America
+ Epirus	$1B	$537M	M42	United States	North America
+ Kapital	$1B	$174M	Alumni Ventures, Pelion Venture Partners	Mexico	North America
+ New Leshi Smart Home	$1B	$2B	JD.com, Sunac China Holdings	China	Asia
+ ONE Championship	$1B	$565M	Qatar Investment Authority	Singapore	Asia
+ XPANCEO	$1B	$290M	Opportunity Venture	United Arab Emirates	Asia
+ Jaguar Microsystems	$1B	$0	Tencent	China	Asia
+ GP Club	$1B	$67M		South Korea	Asia
+ Signifyd	$1B	$409M	Blue Owl Capital Corporation	United States	North America
+ RIDI	$1B	$181M	GIC	South Korea	Asia
+ Linear	$1B	$134M	Accel	United States	North America
+ stc pay	$1B	$200M	Western Union	Saudi Arabia	Asia
+ TEKEVER	$1B	$631M	Baillie Gifford, NATO Innovation Fund	Portugal	Europe
+ AG1	$1B	$115M	Alpha Wave Global	United States	North America
+ Pilot	$1B	$172M	Bezos Expeditions, Sequoia Capital	United States	North America
+ Gymshark	$1B	$262M	General Atlantic	United Kingdom	Europe
+ 24M Technologies	$1B	$182M	Nuovo Plus	United States	North America
+ Betterment	$1B	$335M	Treasury	United States	North America
+ Clipboard Health	$1B	$94M	Sequoia Capital	United States	North America
+ CoinTracker	$1B	$102M	Accel	United States	North America
+ DistroKid	$1B	$0	Insight Partners	United States	North America
+ Doc.com	$1B	$300M	Silver Rock Group	United States	North America
+ Domestika	$1B	$130M	Zeev Ventures	United States	North America
+ Dream Security	$1B	$154M	Bain Capital Ventures	Israel	Asia
+ Equashield	$1B	$0		United States	North America
+ Flock Freight	$1B	$459M	O'Neil Strategic Capital	United States	North America
+ Haihe Biopharma	$1B	$318M	Warburg Pincus	China	Asia
+ Intercom	$1B	$241M	Kleiner Perkins	United States	North America
+ iTrustCapital Inc.	$1B	$128M	Left Lane Capital	United States	North America
+ Keyfactor	$1B	$212M	Sixth Street	United States	North America
+ Konfio	$1B	$378M	QED Investors, Tarsadia Capital	Mexico	North America
+ Kr Space	$1B	$482M	Gopher Asset Management, IDG Capital	China	Asia
+ Lila Sciences	$1B	$550M	NVentures	United States	North America
+ Linktree	$1B	$166M	Coatue, Index Ventures	Australia	Oceania
+ Loadsmart	$1B	$336M	SOFTBANK Latin America Ventures	United States	North America
+ Lukka	$1B	$201M	Animoca Capital	United States	North America
+ Mapbox	$1B	$614M	SoftBank	United States	North America
+ MasterControl	$1B	$150M	Sixth Street	United States	North America
+ Nothing	$1B	$446M	Tiger Global Management	United Kingdom	Europe
+ Optibus	$1B	$260M	Volvo Group Venture Capital	Israel	Asia
+ Scribe	$1B	$130M	StepStone Group	United States	North America
+ Snorkel AI	$1B	$235M	Accenture Ventures	United States	North America
+ Ultragreen.ai	$1B	$188M	65 Equity Partners, Vitruvian Partners	Singapore	Asia
+ Yugabyte	$1B	$291M	Sapphire Ventures	United States	North America
+ Zum	$1B	$341M	GIC	United States	North America
+ Underdog Fantasy	$1B	$115M	Spark Capital	United States	North America
+ Wilson Wolf Corporation	$1B	$257M	Bio-Techne	United States	North America
+ BYD Semiconductor	$1B	$378M		China	Asia
+ 1mg	$1B	$200M	Tata Digital	India	Asia
+ The Good Glamm Group	$1B	$184M	Warburg Pincus	India	Asia
+ Zhidou	$1B	$2B	Geely	China	Asia
+ Juwan Technology	$1B	$166M	Guangzhou Automobile Group	China	Asia
+ airSlate	$1B	$132M	G Squared	United States	North America
+ Ambience Healthcare	$1B	$319M	Andreessen Horowitz, Oak HC/FT	United States	North America
+ Belief BioMed	$1B	$204M	Qiming Venture Partners	China	Asia
+ CaptivateIQ	$1B	$165M	Accel, ICONIQ Growth	United States	North America
+ Chipper Cash	$1B	$337M	Alameda Research	United States	North America
+ ClassDojo	$1B	$191M	Tencent	United States	North America
+ Flipdish	$1B	$157M	Tencent	Ireland	Europe
+ Gecko Robotics	$1B	$347M	Cox Enterprises	United States	North America
+ Genspark	$1B	$435M	LG Technology Ventures, SBI Investment	United States	North America
+ Honor	$1B	$325M	Baillie Gifford	United States	North America
+ Incode Technologies	$1B	$257M	General Atlantic, SoftBank	United States	North America
+ Kuaikan Manhua	$1B	$594M	Tencent	China	Asia
+ LangChain	$1B	$160M	IVP	United States	North America
+ Purplle	$1B	$476M	Abu Dhabi Investment Authority, Premji Invest	India	Asia
+ Sidewalk Infrastructure Partners	$1B	$1B	StepStone Group	United States	North America
+ Tackle	$1B	$148M	Andreessen Horowitz, Coatue	United States	North America
+ Talos	$1B	$145M	General Atlantic	United States	North America
+ Vantaca	$1B	$305M	Cove Hill Partners	United States	North America
+ Instabase	$1B	$292M	Qatar Investment Authority	United States	North America
+ SeatGeek	$1B	$400M	Accel	United States	North America
+ Teamworks	$1B	$422M	Dragoneer Investment Group	United States	North America
+ ETCP	$1B	$280M	Wanda E-Commerce	China	Asia
+ inDrive	$1B	$237M	Insight Partners	United States	North America
+ MicroPort CardioFlow	$1B	$130M		China	Asia
+ Spiber	$1B	$585M	The Carlyle Group	Japan	Asia
+ Public	$1B	$414M	Accel	United States	North America
+ TBM	$1B	$181M	SK Group	Japan	Asia
+ Castore	$1B	$188M	Raine Ventures	United Kingdom	Europe
+ Moneyview	$1B	$188M	Accel	India	Asia
+ Clean Planet	$1B	$9M	Miura Co	Japan	Asia
+ Ada	$1B	$191M	Spark Capital	Canada	North America
+ AgentSync	$1B	$161M	Craft Ventures, Valor Ventures	United States	North America
+ Berlin Brands Group	$1B	$800M	Ardian	Germany	Europe
+ BigPanda	$1B	$313M	UBS, Wells Fargo Strategic Capital	United States	North America
+ boAt	$1B	$108M	Qualcomm Ventures	India	Asia
+ CarDekho	$1B	$448M	LeapFrog Investments	India	Asia
+ Choco	$1B	$336M	G Squared	Germany	Europe
+ Copado	$1B	$271M	Insight Partners	United States	North America
+ Creatio	$1B	$268M	Sapphire Ventures	United States	North America
+ DANA	$1B	$250M		Indonesia	Asia
+ Dianrong	$1B	$549M	Affirma Capital, Standard Chartered Private Equity	China	Asia
+ Droom	$1B	$336M	Finvolve, IA Growth Opportunities Fund	India	Asia
+ EGYM	$1B	$580M	L Catterton, Meritech Capital Partners	Germany	Europe
+ Form Energy	$1B	$1B	T. Rowe Price	United States	North America
+ Gem	$1B	$148M	ICONIQ Growth	United States	North America
+ Hailo	$1B	$341M	Gil Agmon, Poalim Equity	Israel	Asia
+ Helium	$1B	$365M	Andreessen Horowitz, Tiger Global Management	United States	North America
+ Hightouch	$1B	$182M	Sapphire Ventures	United States	North America
+ Human Longevity	$1B	$370M	TVM Capital Healthcare	United States	North America
+ iCarbonX	$1B	$200M	China Bridge Capital	China	Asia
+ Iyuno-SDI	$1B	$206M	IMM Investment	United States	North America
+ Mensa Brands	$1B	$218M	Alpha Wave Global	India	Asia
+ Merama	$1B	$394M	MONASHEES	Mexico	North America
+ MindTickle	$1B	$281M	SoftBank Vision Fund	United States	North America
+ Multichain	$1B	$60M	YZi Labs	Singapore	Asia
+ Nerdio	$1B	$625M	General Atlantic	United States	North America
+ Offchain Labs	$1B	$124M	Lightspeed Venture Partners	United States	North America
+ Our Next Energy	$1B	$390M	Crescent Ventures	United States	North America
+ Oyster	$1B	$288M	ServiceNow Ventures	United States	North America
+ Porter	$1B	$357M	Elev8 Venture Partners	India	Asia
+ Qdama	$1B	$142M	Hezhi Investment	China	Asia
+ Qumulo	$1B	$347M	BlackRock Private Equity Partners	United States	North America
+ Raise Financial Services	$1B	$148M	Hornbill Capital Advisers	India	Asia
+ SeekOut	$1B	$189M	Tiger Global Management	United States	North America
+ Seekr	$1B	$119M	AMD Ventures, Danu Venture Group	United States	North America
+ SmartMore Corporation Limited	$1B	$300M	Hong Kong Investment Corporation Limited	China	Asia
+ Stori	$1B	$330M	BAI capital, Notable Capital	Mexico	North America
+ Tala Health	$1B	$100M	Sofreh Capital	United States	North America
+ Tealium	$1B	$264M	Georgian, Silver Lake Waterman	United States	North America
+ Unit	$1B	$170M	Insight Partners	United States	North America
+ Vectra AI	$1B	$353M	TCV	United States	North America
+ Viz	$1B	$292M	CIBC Innovation Banking	United States	North America
+ Workhuman	$1B	$9M	Atlas Venture	Ireland	Europe
+ ZYBER 365	$1B	$100M	SRAM & MRAM	India	Asia
+ Livspace	$1B	$478M	Kohlberg Kravis Roberts	India	Asia
+ XLMEC	$1B	$1B	China Integrated Circuit Industry Investment Fund (CICF)	China	Asia
+ Mews	$1B	$417M	Tiger Global Management	United Kingdom	Europe
+ Shiprocket	$1B	$425M	KdT Ventures	India	Asia
+ Rohlik	$1B	$785M	European Bank for Reconstruction and Development	Czech Republic	Europe
+ V3 Group	$1B	$268M	Kohlberg Kravis Roberts	Singapore	Asia
+ Arqiva	$1B	$0	CPP Investments	United Kingdom	Europe
+ Modern Health	$1B	$167M	Founders Fund	United States	North America
+ Innovusion	$1B	$278M	Hermitage Capital	United States	North America
+ Fenergo	$1B	$760M	Astorg, Bridgepoint	Ireland	Europe
+ Alisports	$1B	$174M	YF Capital	China	Asia
+ Alphaeon	$1B	$223M	Sailing Capital	United States	North America
+ E-Life Financial Services	$1B	$356M	Shandong New Growth Drivers Fund	China	Asia
+ UnionTech	$1B	$279M	Beijing E-town International Investment & Development	China	Asia
+ Boom Supersonic	$1B	$347M	NEOM Investment Fund	United States	North America
+ CloudBees	$1B	$236M	Goldman Sachs Asset Management	United States	North America
+ DevRev	$1B	$151M	Khosla Ventures, Mayfield Fund	United States	North America
+ Elemy	$1B	$323M	Goodwater Capital, Premji Invest	United States	North America
+ Happy Money	$1B	$337M	TruStage Ventures	United States	North America
+ Rebellion Defense	$1B	$150M	Insight Partners, Venrock	United States	North America
+ Dotc United Group	$1B	$395M	Zeus Entertainment	China	Asia
+ Spendesk	$1B	$312M	Tiger Global Management	France	Europe
+ TalkingData	$1B	$142M	VCI Global	China	Asia
+ Tines	$1B	$271M	Goldman Sachs Growth Equity	Ireland	Europe
+ SKIO Matrix	$1B	$299M	IDG Capital	China	Asia
+ RootCloud	$1B	$195M	IDG Capital	China	Asia
+ Enable	$1B	$276M	Lightspeed Venture Partners	United States	North America
+ Teld New Energy	$1B	$396M	CDH Investments, China Reform Holdings Corporation	China	Asia
+ Coralogix	$1B	$351M	NewView Capital	United States	North America
+ NewsBreak	$1B	$148M	Francisco Partners	United States	North America
+ L&P Cosmetic	$1B	$33M	Credit Suisse	South Korea	Asia
+ Chemao	$1B	$199M	ZHEFU Holding	China	Asia
+ Keyuan Petrochemicals	$1B	$0	Shanghai Fosun High Technology	China	Asia
+ Inspur Cloud	$1B	$3B	CCB International, China Minsheng Bank	China	Asia
+ Acko	$1B	$458M	General Atlantic	India	Asia
+ Apna	$1B	$193M	Tiger Global Management	India	Asia
+ Beyond Identity	$1B	$205M	Evolution Equity Partners	United States	North America
+ CAIS	$1B	$406M	Hamilton Lane	United States	North America
+ Caribou	$1B	$189M	Goldman Sachs	United States	North America
+ Carousell	$1B	$376M	GoTo Group	Singapore	Asia
+ Chief	$1B	$140M	CapitalG	United States	North America
+ Deputy	$1B	$159M	Express Employment Professionals	Australia	Oceania
+ eSentire	$1B	$186M	Georgian, La Caisse	Canada	North America
+ Fundbox	$1B	$404M	Healthcare of Ontario Pension Plan (HOOPP)	United States	North America
+ G2	$1B	$258M	Permira, Salesforce Ventures	United States	North America
+ GlobalBees	$1B	$185M	Premji Invest	India	Asia
+ Humanity Protocol	$1B	$52M	Jump Crypto, Pantera Capital		
+ Imply	$1B	$215M	Thoma Bravo	United States	North America
+ Infobip	$1B	$300M	One Equity Partners	United Kingdom	Europe
+ IntelyCare	$1B	$171M	Janus Henderson Investors	United States	North America
+ Invoca	$1B	$201M	Silver Lake Waterman	United States	North America
+ Juniper Square	$1B	$371M	Nasdaq Ventures	United States	North America
+ Karat	$1B	$169M	Serena Williams	United States	North America
+ LEAD	$1B	$166M	GSV Ventures, WestBridge Capital	India	Asia
+ Lendbuzz	$1B	$222M	Group1001	United States	North America
+ LumApps	$1B	$102M	Bridgepoint	France	Europe
+ Material Security	$1B	$162M	Founders Fund	United States	North America
+ Modal Labs	$1B	$110M	Lux Capital	United States	North America
+ Nowports	$1B	$243M	SOFTBANK Latin America Ventures	Mexico	North America
+ People.ai	$1B	$200M	Akkadian Ventures, Mubadala Capital Ventures	United States	North America
+ Pharmapacks	$1B	$433M	The Carlyle Group	United States	North America
+ Recover	$1B	$100M	Goldman Sachs Asset Management	Spain	Europe
+ Rightway	$1B	$239M	Khosla Ventures	United States	North America
+ SonderMind	$1B	$183M	Drive Capital, Premji Invest	United States	North America
+ Staffbase	$1B	$306M	General Atlantic	Germany	Europe
+ Substack	$1B	$200M	Bond, TCG	United States	North America
+ Sunbit	$1B	$210M	Group 11	United States	North America
+ Tango Me	$1B	$358M	Alibaba Group	United States	North America
+ Teleport	$1B	$169M	Bessemer Venture Partners	United States	North America
+ Wasabi Technologies	$1B	$429M	Azura Partners, SiS Distribution Thailand	United States	North America
+ Yijiupi	$1B	$511M	Tencent	China	Asia
+ Zego	$1B	$282M	DST Global, General Catalyst	United Kingdom	Europe
+ Onebrief	$1B	$120M	Battery Ventures	United States	North America
+ Bank of London	$1B	$185M	Mangrove Capital Partners	United Kingdom	Europe
+ Letu	$1B	$30M	CICC Capital	China	Asia
+ Climeworks	$1B	$946M	BigPoint Holding, Partners Group	Switzerland	Europe
+ Nxin	$1B	$53M	Beijing Junenghesheng Industry Investment Fund, Beijing Shuju Xinrong Investment Management	China	Asia
+ Earnix	$1B	$98M	Insight Partners	Israel	Asia
+ Amarenco	$1B	$515M	Arjun Infrastructure Partners	Ireland	Europe
+ Cirkul	$1B	$112M	SC.Holdings	United States	North America
+ Rivigo	$1B	$269M	Elevation Capital, Spring Canter Investment	India	Asia
+ Veepee	$1B	$0	Qatar Holding	France	Europe
+ MobileCoin	$1B	$107M	Future Ventures, General Catalyst	United States	North America
+ Radius Payment Solutions	$1B	$200M	Inflexion	United Kingdom	Europe
+ Scivita Medical Technology	$1B	$124M	GL Ventures LLC, Lilly Asia Ventures	China	Asia
+ InCred	$1B	$273M	Ranjan Pai	India	Asia
+ Yi'an Holdings	$1B	$294M	Zhongling Shanghai Investment	China	Asia
+ Vestwell	$1B	$290M	Lightspeed Venture Partners	United States	North America
+ Jiuxian	$1B	$250M	HSG	China	Asia
+ Branch	$1B	$230M	Weatherford Capital	United States	North America
+ Density	$1B	$217M	Kleiner Perkins	United States	North America
+ Mixpanel	$1B	$277M	Bain Capital Tech Opportunities	United States	North America
+ Sendbird	$1B	$221M	Steadfast Financial	United States	North America
+ Luoji Siwei	$1B	$144M	ZhenFund	China	Asia
+ Origin Quantum	$1B	$152M	Shenzhen Capital Group	China	Asia
+ Zopa	$1B	$974M	A.P. Moller Holding	United Kingdom	Europe
+ Element Biosciences	$1B	$678M	Wellington Management	United States	North America
+ Bluepha	$1B	$303M	Zhongping Capital	China	Asia
+ Astronergy	$1B	$553M	Yunhao Capital	China	Asia
+ Chint New Energy	$1B	$219M	Yunhao Capital	China	Asia
+ Aijia Home Furnishing Products	$1B	$146M	Tiantu Capital	China	Asia
+ B&C Chemical	$1B	$134M	China Development Bank Capital, Zhongping Capital	China	Asia
+ Miaoshou Doctor	$1B	$946M	Sequoia Capital, Tencent	China	Asia
+ Veritas Finance	$1B	$320M	Multiples	India	Asia
+ Chinac.com	$1B	$379M	Orient Securities Capital Investment	China	Asia
+ Morning Consult	$1B	$91M	Advance Venture Partners	United States	North America
+ Kong Studios, Inc.	$1B	$65M	DSC Investment	United States	North America
+ Qiyuan Core Power Technology	$1B	$359M	Contemporary Amperex Technology	China	Asia
+ Electric	$1B	$212M	Harmonic Growth Partners	United States	North America
+ Juanpi	$1B	$136M	China Merchants Bank, Tiantu Capital	China	Asia
+ Chando	$1B	$104M	Harvest Capital, L'Oreal	China	Asia
+ NoBroker	$1B	$377M	Google	India	Asia
+ Gaussian Robot	$1B	$395M	Jintuo Capital	China	Asia
+ Zihaiguo	$1B	$80M	Beijing Taikang Investment	China	Asia
+ Aqara	$1B	$272M	Shenzhen Capital Group	China	Asia
+ TrustDecision	$1B	$252M	China Merchants Venture Capital	China	Asia
+ Perfios Software Solutions	$1B	$435M	Teachers’ Venture Growth	India	Asia
+ NAVER Z	$1B	$208M	Krafton	South Korea	Asia
+ Gelato	$1B	$269M	Insight Partners	Norway	Europe
+ Lanhu	$1B	$235M	GGV Capital	China	Asia
+ Polarium	$1B	$223M	AMF	Sweden	Europe
+ 01.AI	$1B	$0	Alibaba Cloud		
+ 1KMXC	$1B	$86M	Haoteng Asia	China	Asia
+ 1Komma5°	$1B	$647M	Sabanci Climate Technologies	Germany	Europe
+ 58 Daojia	$1B	$300M		China	Asia
+ AA-I Technologies	$1B	$200M	Lightspeed Venture Partners	Israel	Asia
+ Adept AI	$1B	$415M	General Catalyst, Spark Capital	United States	North America
+ Agile Robots AG	$1B	$270M	Foxconn Industrial Internet	Germany	Europe
+ Aibee	$1B	$273M	Xiaomi	China	Asia
+ Airalo	$1B	$287M	CVC Capital Partners		
+ Aircall	$1B	$226M	HubSpot Ventures	France	Europe
+ Ajaib	$1B	$246M	DST Global	Indonesia	Asia
+ Also	$1B	$305M	Greenoaks	United States	North America
+ Altana	$1B	$322M	US Innovative Technology Fund	United States	North America
+ Amperity	$1B	$187M	HighSage Ventures	United States	North America
+ Ample	$1B	$301M	Mitsubishi Corporation	United States	North America
+ Andalusia Labs	$1B	$52M	Lightspeed Venture Partners	United States	North America
+ Anhui YOFC Advanced Semiconductor	$1B	$525M		China	Asia
+ Anyscale	$1B	$259M	Addition, Intel Capital	United States	North America
+ Apex	$1B	$522M	Interlagos Capital	United States	North America
+ APUS Group	$1B	$116M	Chengwei Capital, Qiming Venture Partners	China	Asia
+ Aqua Security	$1B	$325M	Evolution Equity Partners	Israel	Asia
+ Arrail Dental Clinic	$1B	$400M	Temasek Holdings	China	Asia
+ assembly	$1B	$0	Advent International	United States	North America
+ Assured Insurance Technologies	$1B	$0		United States	North America
+ Atmosphere	$1B	$194M	S3 Ventures, Sageview Capital	United States	North America
+ Augury	$1B	$369M	Lightrock	United States	North America
+ Avenue One	$1B	$100M	WestCap	United States	North America
+ Awardco	$1B	$235M	Sixth Street, Spectrum Equity	United States	North America
+ Axelar Network	$1B	$94M	Alameda Research	Canada	North America
+ Ayar Labs	$1B	$372M	Advent International, Alumni Ventures	United States	North America
+ Banma Network Technologies	$1B	$697M	SDIC Fund Management	China	Asia
+ Beacon Software	$1B	$250M	D1 Capital Partners, General Catalyst	Canada	North America
+ Beamery	$1B	$223M	Teachers’ Venture Growth	United Kingdom	Europe
+ BeiBei	$1B	$224M	New Horizon Capital, Northern Light Venture Capital	China	Asia
+ Beisen	$1B	$388M	Fidelity International, Goldman Sachs	China	Asia
+ Benlai	$1B	$349M	Mingde Holdings	China	Asia
+ Betterfly	$1B	$205M	Glade Brook Capital Partners	Chile	South America
+ BFMeta	$1B	$0	Goldman Sachs	United States	North America
+ BigID	$1B	$306M	Riverwood Capital	United States	North America
+ Binance	$1B	$2B	MGX	Malta	Europe
+ Bitfury Group	$1B	$170M	Korelya Capital	The Netherlands	Europe
+ Bluecore	$1B	$263M	Georgian	United States	North America
+ Blueground	$1B	$243M	Susquehanna Private Equity Investments	United States	North America
+ BlueVoyant	$1B	$666M	Liberty Strategic Capital	United States	North America
+ BostonGene	$1B	$200M	NEC Corporation	United States	North America
+ Bringg	$1B	$185M	Insight Partners	Israel	Asia
+ Bugcrowd	$1B	$181M	General Catalyst	United States	North America
+ BuildOps	$1B	$226M	Meritech Capital Partners	United States	North America
+ C2FO	$1B	$568M	International Finance Corporation	United States	North America
+ Cadence Solutions	$1B	$141M	Coatue	United States	North America
+ Cambridge Mobile Telematics	$1B	$503M	SoftBank Vision Fund	United States	North America
+ Capsule	$1B	$570M	Durable Capital Partners	United States	North America
+ CargoX	$1B	$390M	SOFTBANK Latin America Ventures, Tencent	Brazil	South America
+ Carro	$1B	$655M	Cool Japan Fund	Singapore	Asia
+ Carson Group	$1B	$0	Bain Capital	United States	North America
+ Cera	$1B	$249M	BDT & MSD Partners, Schroders Capital	United Kingdom	Europe
+ Character.ai	$1B	$150M	Andreessen Horowitz		
+ CHEQ	$1B	$182M	Tiger Global Management	Israel	Asia
+ Chrono24	$1B	$206M	Cristiano Ronaldo	Germany	Europe
+ Cider	$1B	$140M	DST Global	Hong Kong	Asia
+ Clara	$1B	$212M	Citi Ventures	Mexico	North America
+ Clearcover	$1B	$457M	Eldridge Industries	United States	North America
+ CommerceIQ	$1B	$196M	SoftBank Vision Fund	United States	North America
+ Commonwealth Fusion Systems	$1B	$3B	Google	United States	North America
+ Contrast Security	$1B	$269M	Liberty Strategic Capital	United States	North America
+ Cornerstone Robotics	$1B	$476M	Hong Kong Investment Corporation Limited	Hong Kong	Asia
+ Cosm	$1B	$250M		United States	North America
+ COSMOplat	$1B	$317M	Hongtai Fund	China	Asia
+ Create Music Group	$1B	$165M	Flexpoint Ford	United States	North America
+ Cyberhaven	$1B	$237M	StepStone Group	United States	North America
+ Darwinbox	$1B	$307M	Teachers’ Venture Growth	India	Asia
+ DataSnipper	$1B	$100M	Index Ventures	The Netherlands	Europe
+ Deeproute	$1B	$450M	Great Wall Motors	China	Asia
+ Dental Monitoring	$1B	$232M	Mérieux Equity Partners	France	Europe
+ DocPlanner	$1B	$140M	Goldman Sachs Growth Equity, One Peak	Poland	Europe
+ Dubizzle Group	$1B	$479M	Affinity Partners	United Arab Emirates	Asia
+ Dune Analytics	$1B	$79M	Coatue	Norway	Europe
+ DXY	$1B	$682M	Trustbridge Partners	China	Asia
+ Eat Just	$1B	$465M	The Ahimsa Foundation, VegInvest	United States	North America
+ EBANX	$1B	$460M	Advent International	Brazil	South America
+ EcoFlow Tech	$1B	$105M	HSG	United States	North America
+ EcoVadis	$1B	$733M	Astorg, Beyond Net Zero	France	Europe
+ Einride	$1B	$452M	EQT Ventures, IonQ	Sweden	Europe
+ Electric Hydrogen	$1B	$602M	Energy Impact Partners, Fifth Wall	United States	North America
+ Emplifi	$1B	$0	Sixth Street	United States	North America
+ EmployerDirect Healthcare	$1B	$1M	Dundon Capital Partners	United States	North America
+ Endless	$1B	$111M	Foresight Ventures	Hong Kong	Asia
+ Enveda Biosciences	$1B	$517M	Premji Invest	United States	North America
+ EquipmentShare	$1B	$702M	BDT & MSD Partners	United States	North America
+ Esusu	$1B	$145M	SoftBank Vision Fund	United States	North America
+ Eve	$1B	$164M	Spark Capital	United States	North America
+ Evidation Health	$1B	$259M	Kaiser Permanente Ventures, OMERS Private Equity	United States	North America
+ Expel	$1B	$289M	CapitalG, Paladin Capital Group	United States	North America
+ Exterro	$1B	$100M	Coller Capital, Glendower Capital	United States	North America
+ FabFitFun	$1B	$162M	Milano Investment Partners SGR	United States	North America
+ Fabric	$1B	$336M	Temasek Holdings	United States	North America
+ Facily	$1B	$502M	Goodwater Capital, Prosus	Brazil	South America
+ Factorial	$1B	$220M	Atomico	Spain	Europe
+ Farcaster	$1B	$180M	Paradigm	United States	North America
+ Fenbeitong	$1B	$292M	DST Global	China	Asia
+ Fintech-IT Group	$1B	$0	Ukraine-Moldova American Enterprise Fund	Ukraine	Europe
+ Fireflies.ai	$1B	$19M	Khosla Ventures	United States	North America
+ Fiture	$1B	$391M	All-Stars Investment, BAI capital	China	Asia
+ FLASH	$1B	$319M	Vista Equity Partners	United States	North America
+ Flashbots	$1B	$60M	Paradigm	Cayman Islands	North America
+ Flexe	$1B	$263M	BlackRock	United States	North America
+ Flexiv	$1B	$322M	GF Xinde Investment Management, Yonggui Fund	United States	North America
+ Flo Health	$1B	$276M	General Atlantic	United Kingdom	Europe
+ Formation Bio	$1B	$528M	Andreessen Horowitz	United States	North America
+ Forte	$1B	$910M	Kora	United States	North America
+ Forterra	$1B	$649M	Moore Strategic Ventures	United States	North America
+ FourKites	$1B	$242M	Mitsui & Co	United States	North America
+ Freenome	$1B	$1B	Roche	United States	North America
+ FreshBooks	$1B	$156M	Accomplice	Canada	North America
+ Fruitist	$1B	$425M	J.P. Morgan Asset Management	United States	North America
+ Fullcryo	$1B	$158M	CCB Equity, Chengtong Mixed Reform	China	Asia
+ Fuse Energy	$1B	$101M	Balderton Capital, Lowercarbon Capital	United Kingdom	Europe
+ FXiaoKe	$1B	$388M	Eastern Bell Capital	China	Asia
+ G42	$1B	$2B	Microsoft	United Arab Emirates	Asia
+ Galaxy Bot	$1B	$319M	Contemporary Amperex Technology, Puquan Capital	China	Asia
+ Gauntlet	$1B	$45M	Ribbit Capital	United States	North America
+ Generate Biomedicines	$1B	$693M	Samsung Life Science Fund	United States	North America
+ Genies	$1B	$267M	Silver Lake	United States	North America
+ GeoComply	$1B	$0	Arctos Sports Partners, Norwest	Canada	North America
+ GI Water as a Service	$1B	$0	Al Qunaibet Investment Fund, Al Zamil		
+ Glia	$1B	$152M	Insight Partners	United States	North America
+ GO	$1B	$72M	Fidelity International, Okayama Kotsu	Japan	Asia
+ GoGoX	$1B	$377M	BOCOM International, Cyberport Macro Fund	Hong Kong	Asia
+ GoGuardian	$1B	$200M	Tiger Global Management	United States	North America
+ Gokin Solar	$1B	$620M	IDG Capital, Zhuhai Huafa Group	Japan	Asia
+ Good Choice Company	$1B	$39M		South Korea	Asia
+ Govini	$1B	$170M	Bain Capital	United States	North America
+ Gradiant	$1B	$392M	BoltRock Holdings, Centaurus Capital LP	United States	North America
+ Grover	$1B	$283M	Energy Impact Partners	Germany	Europe
+ Grupo Axo	$1B	$0	BlackRock Private Equity Partners	Mexico	North America
+ Habi	$1B	$316M	Homebrew, SOFTBANK Latin America Ventures	Colombia	South America
+ HAEGIN	$1B	$129M		South Korea	Asia
+ Halcyon	$1B	$184M	Cisco Investments, Evolution Equity Partners	United States	North America
+ Halter	$1B	$198M	Bond	New Zealand	Oceania
+ Haomo.AI	$1B	$212M	Jiuzhi Ziben	China	Asia
+ Hasura	$1B	$137M	Greenoaks	India	Asia
+ Haydon	$1B	$100M	Hillhouse Investment, Tencent	China	Asia
+ Healthcare.com	$1B	$114M	Hildred Capital Partners	United States	North America
+ HIF Global	$1B	$480M	Mitsui O.S.K. Lines	Chile	South America
+ HMD	$1B	$330M	Ginko Ventures	Finland	Europe
+ Hotmart	$1B	$127M	TCV	The Netherlands	Europe
+ HT Aero	$1B	$750M	5Y Capital, IDG Capital	China	Asia
+ Huasheng Haoche	$1B	$450M	Crescent Point	China	Asia
+ Huikedu Group	$1B	$302M	China Oceanwide	China	Asia
+ Hujiang Education Technologies	$1B	$187M	China Minsheng Investment Group	China	Asia
+ Huma	$1B	$292M	AstraZeneca	United Kingdom	Europe
+ Hyperchain Technologies	$1B	$250M	E Fund Management Co.,LTD.	China	Asia
+ Imbue	$1B	$232M	Astera Institute	United States	North America
+ Immunai	$1B	$295M	Koch Disruptive Technologies	United States	North America
+ Immuta	$1B	$258M	Databricks Ventures	United States	North America
+ Infarm	$1B	$600M	Qatar Investment Authority	Germany	Europe
+ Injective	$1B	$57M	Pantera Capital	United States	North America
+ Insilico Medicine	$1B	$523M	Pudong Chuangtou, Value Partners	Hong Kong	Asia
+ Insitro	$1B	$643M	CPP Investments	United States	North America
+ Instabox	$1B	$292M	Swedbank Robur	Sweden	Europe
+ Interos	$1B	$175M	Blue Owl	United States	North America
+ Interswitch	$1B	$321M	Visa	Nigeria	Africa
+ IntraBio	$1B	$51M		United Kingdom	Europe
+ InvestCloud	$1B	$54M	Clearlake Capital Group, Motive Partners	United States	North America
+ io.net	$1B	$30M	Hack VC	United States	North America
+ IQM Quantum Computers	$1B	$527M	Ten Eleven Ventures	Finland	Europe
+ Isar Aerospace	$1B	$420M	Eldridge Industries	Germany	Europe
+ iSpot.tv	$1B	$383M	Goldman Sachs	United States	North America
+ Ivalua	$1B	$134M	Ardian, Tiger Global Management	France	Europe
+ JD.ID	$1B	$0	Gojek	Indonesia	Asia
+ Jellysmack	$1B	$16M	SoftBank Vision Fund	United States	North America
+ JLSemi	$1B	$90M	SDIC Fund Management	China	Asia
+ JMGO	$1B	$377M	IDG Capital, Oppo	China	Asia
+ Jollychic	$1B	$96M	G42	China	Asia
+ JSW One	$1B	$93M	Mitsui & Co	India	Asia
+ Jumbotail	$1B	$285M	SC Ventures	India	Asia
+ JupiterOne	$1B	$119M	Tribe Capital	United States	North America
+ Kakao Enterprise	$1B	$100M	Hy	South Korea	Asia
+ Kendra Scott Design	$1B	$0	65 Equity Partners	United States	North America
+ Kiteworks	$1B	$591M	Insight Partners, Sixth Street	United States	North America
+ KKW Beauty	$1B	$200M	Coty	United States	North America
+ Klook	$1B	$1B	Vitruvian Partners	Hong Kong	Asia
+ Knowbox	$1B	$306M	Alibaba Group	China	Asia
+ Kopi Kenangan	$1B	$333M	Tybourne Capital Management	Indonesia	Asia
+ Krutrim	$1B	$280M	Z47	India	Asia
+ Kujiale	$1B	$235M	Hillhouse Investment	China	Asia
+ Lamabang	$1B	$130M	Suning.com	China	Asia
+ LeadSquared	$1B	$188M	WestBridge Capital	India	Asia
+ LetsGetChecked	$1B	$448M	Optum Ventures	United States	North America
+ Lianshang Literature	$1B	$20M	HOPU Investment Management Company	China	Asia
+ Licious	$1B	$490M	Amansa Capital	India	Asia
+ Lighthouse	$1B	$470M	Kohlberg Kravis Roberts	United Kingdom	Europe
+ LINE MAN Wongnai	$1B	$375M	GIC, LINE Plus Corporation	Thailand	Asia
+ LinkDoc Technology	$1B	$253M	Alibaba Health Information Technology	China	Asia
+ LMAX Group	$1B	$0		United Kingdom	Europe
+ Loft Orbital	$1B	$326M	AXIAL Partners, Tikehau Capital	United States	North America
+ Lookout	$1B	$282M	T. Rowe Price	United States	North America
+ Lydia	$1B	$260M	Accel, Dragoneer Investment Group	France	Europe
+ Lyten	$1B	$360M	The Luxembourg Future Fund	United States	North America
+ MadeiraMadeira	$1B	$336M	Dynamo, SOFTBANK Latin America Ventures	Brazil	South America
+ Maimai	$1B	$300M	DST Global	China	Asia
+ Mammoth Biosciences	$1B	$360M	Regeneron	United States	North America
+ Mark43	$1B	$269M	The Spruce House Partnership, Tiger Global Management	United States	North America
+ Masterworks	$1B	$110M	Left Lane Capital	United States	North America
+ Meero	$1B	$324M	Alven, Eurazeo	France	Europe
+ MegaRobo	$1B	$426M	Asia Investment Capital, GGV Capital	China	Asia
+ Meter	$1B	$255M	General Catalyst	United States	North America
+ Mia.com	$1B	$232M	Baidu	China	Asia
+ MinIO	$1B	$126M	Intel Capital	United States	North America
+ Minute Media	$1B	$260M	Dawn Capital	United Kingdom	Europe
+ MNT-Halan	$1B	$478M	International Finance Corporation	Egypt	Africa
+ Mobvoi	$1B	$264M	Nanjing Economic Development Juzhi Technology Innovation Investment Partnership, ZGC Group	China	Asia
+ Mofang Gongyu	$1B	$650M	La Caisse	China	Asia
+ Moka	$1B	$144M	Tiger Global Management	China	Asia
+ Momenta	$1B	$1B	General Motors	China	Asia
+ Monad	$1B	$244M	OKX Ventures	United States	North America
+ Moniepoint	$1B	$318M	Development Partners International, LeapFrog Investments	United Kingdom	Europe
+ Moody	$1B	$215M	5Y Capital, Kohlberg Kravis Roberts	China	Asia
+ Moore Threads	$1B	$529M	Beijing Gaoliang Private Equity Fund Management	China	Asia
+ Motorway	$1B	$276M	ICONIQ Growth, Index Ventures	United Kingdom	Europe
+ Moviebook	$1B	$302M	Yao Capital	China	Asia
+ Movile	$1B	$588M	Prosus Ventures	Brazil	South America
+ MSquared	$1B	$150M	Andreessen Horowitz, SoftBank Vision Fund	United Kingdom	Europe
+ MUBI	$1B	$102M	Sequoia Capital	United Kingdom	Europe
+ Mux	$1B	$174M	Coatue	United States	North America
+ Mythical Games	$1B	$297M	Eightco Holdings	United States	North America
+ Nature's Fynd	$1B	$463M	SoftBank Vision Fund	United States	North America
+ Newlink	$1B	$589M	Shandong Green Development Fund	China	Asia
+ Newsela	$1B	$172M	Franklin Templeton, TCV	United States	North America
+ NexHealth	$1B	$177M	Buckley Ventures	United States	North America
+ Nimble Robotics	$1B	$221M	Cedar Pine, FedEx	United States	North America
+ Ninebot	$1B	$247M	China Mobile Innovation Industry Fund, SDIC Fund Management	China	Asia
+ Nourish	$1B	$113M	J.P. Morgan Growth Equity Partners	United States	North America
+ Numbrs	$1B	$109M	Saidler & Co.	Switzerland	Europe
+ OfferUp	$1B	$381M	Pobts	United States	North America
+ Ohmium	$1B	$297M	3M	United States	North America
+ Omio	$1B	$376M	Kinnevik, Temasek Holdings	Germany	Europe
+ OneFootball	$1B	$381M	Major League Soccer	Germany	Europe
+ Open Financial Technologies	$1B	$187M	IIFL Finance	India	Asia
+ Opn	$1B	$220M	SCB 10X, SPARX Group	Japan	Asia
+ Orbbec	$1B	$200M	Ant Group	China	Asia
+ Orca Bio	$1B	$192M	Lightspeed Venture Partners	United States	North America
+ OrCam Technologies	$1B	$86M	Clal Insurance, Meitav Investment House	Israel	Asia
+ Orchard	$1B	$252M	Accomplice	United States	North America
+ Owkin	$1B	$304M	Bristol-Myers Squibb	United States	North America
+ Owner	$1B	$182M	Headline, Meritech Capital Partners	United States	North America
+ Oxyzo	$1B	$200M	Alpha Wave Global, Creation Investments Capital Management, LLC	India	Asia
+ Pacific Fusion	$1B	$900M	Alumni Ventures, General Catalyst	United States	North America
+ Palmetto	$1B	$565M	TPG Rise Climate Fund	United States	North America
+ PandaDoc	$1B	$51M	G Squared, OMERS Growth Equity	United States	North America
+ Parametrix.ai	$1B	$130M	HSG	China	Asia
+ Parloa	$1B	$212M	Altimeter Capital, Durable Capital Partners	Germany	Europe
+ Pat McGrath Labs	$1B	$60M	Eurazeo	United States	North America
+ Patpat	$1B	$721M	SoftBank Vision Fund	China	Asia
+ PatSnap	$1B	$352M	SoftBank Vision Fund, Tencent	Singapore	Asia
+ Payhawk	$1B	$239M	Lightspeed Venture Partners	United Kingdom	Europe
+ Paystand	$1B	$98M	NewView Capital	United States	North America
+ Pentera	$1B	$250M	Evolution Equity Partners	Israel	Asia
+ Periodic Labs	$1B	$300M	Andreessen Horowitz, Felicis		
+ Picnic	$1B	$2B	Bill & Melinda Gates Foundation	The Netherlands	Europe
+ Picsart	$1B	$195M	SoftBank Vision Fund	United States	North America
+ Pigment	$1B	$397M	ICONIQ Growth	France	Europe
+ Place	$1B	$100M	Goldman Sachs Asset Management	United States	North America
+ Playco	$1B	$144M	Meta	Japan	Asia
+ Plus	$1B	$520M	ClearVue Partners, FountainVest Partners	United States	North America
+ POIZON	$1B	$0	DST Global	Hong Kong	Asia
+ Polyhedra Network	$1B	$45M	Polychain	United States	North America
+ PPRO	$1B	$463M	Eldridge Industries, JP Morgan	United Kingdom	Europe
+ Printful	$1B	$130M	Bregal Sagemount	United States	North America
+ Prodege	$1B	$60M	Great Hill Partners	United States	North America
+ Project Prometheus	$1B	$6B	Jeff Bezos		
+ ProLogium Technology	$1B	$537M	China Reform Health Management and Services Group Co Ltd	Taiwan	Asia
+ Prove	$1B	$246M	Capital One Ventures, MassMutual Ventures	United States	North America
+ QI Tech	$1B	$375M	General Atlantic	Brazil	South America
+ Qingju	$1B	$2B	Didi	China	Asia
+ Qiniu	$1B	$397M	YF Capital	China	Asia
+ Qualia	$1B	$160M	Tiger Global Management	United States	North America
+ Quantum Metric	$1B	$226M	Insight Partners	United States	North America
+ Quikr	$1B	$334M	Kinnevik, Tiger Global Management	India	Asia
+ Quizlet	$1B	$62M	General Atlantic	United States	North America
+ Radia	$1B	$100M	Good Growth Capital	United States	North America
+ Raisin	$1B	$271M	M&G Investments	Germany	Europe
+ RapidSOS	$1B	$455M	Apax Partners	United States	North America
+ Red Ventures	$1B	$250M	Silver Lake	United States	North America
+ RedotPay	$1B	$87M	Coinbase Ventures	Hong Kong	Asia
+ Redpanda Data	$1B	$266M	GV	United States	North America
+ REEF	$1B	$2B	Mubadala Capital Ventures, SoftBank	United States	North America
+ Reka AI	$1B	$170M	NVIDIA, Snowflake	United States	North America
+ reMarkable	$1B	$24M	Spark Capital	Norway	Europe
+ Rentberry	$1B	$124M	Berkeley Hills Capital, GTM Capital	United States	North America
+ Resilience	$1B	$2B	Mubadala	United States	North America
+ Restaurant365	$1B	$438M	ICONIQ Growth	United States	North America
+ Revolution Precrafted	$1B	$15M	500 Global	Philippines	Asia
+ Rokid	$1B	$643M	Wuhan Jiangxia Technology Investment	United States	North America
+ Rong Semiconductor	$1B	$0	Xing Wang, Yu Renrong	China	Asia
+ Rothy's	$1B	$484M	Alpargatas	United States	North America
+ SAIC Mobility	$1B	$373M	SAIC Motor	China	Asia
+ Satispay	$1B	$532M	Addition	Italy	Europe
+ Savage X Fenty	$1B	$310M	Neuberger Berman	United States	North America
+ Scalapay	$1B	$443M	Poste Italiane	Italy	Europe
+ Scandit	$1B	$273M	Warburg Pincus	Switzerland	Europe
+ Securonix	$1B	$1B	Vista Equity Partners	United States	North America
+ Semios	$1B	$183M	Morningside	Canada	North America
+ Semperis	$1B	$373M	Hercules Capital, JP Morgan	United States	North America
+ Sennder	$1B	$340M	Baillie Gifford	Germany	Europe
+ SheMed	$1B	$50M		United Kingdom	Europe
+ Shift Technology	$1B	$320M	Guidewire Software	France	Europe
+ ShipBob	$1B	$331M	Bain Capital Ventures	United States	North America
+ Shippo	$1B	$154M	Bessemer Venture Partners	United States	North America
+ Shouqi Limousine & Chauffeur	$1B	$140M	Baidu, NIO Capital	China	Asia
+ Sidecar Health	$1B	$328M	Koch Disruptive Technologies	United States	North America
+ SiEngine Technology	$1B	$220M	China State-owned Enterprise Structural Adjustment Fund	China	Asia
+ Sift	$1B	$157M	Insight Partners	United States	North America
+ Sightline Payments	$1B	$347M	JP Morgan	United States	North America
+ Silicon Box	$1B	$507M	Prysm Capital	Singapore	Asia
+ Simply	$1B	$92M	GV	Israel	Asia
+ Sisense	$1B	$275M	Insight Partners	United States	North America
+ SmartAsset	$1B	$161M	TTV Capital	United States	North America
+ SmartMi International Limited	$1B	$50M	GIC	China	Asia
+ SnapLogic	$1B	$371M	Sixth Street	United States	North America
+ SolarSpace	$1B	$412M	Yingke Capital	China	Asia
+ Solo.io	$1B	$172M	Altimeter Capital	United States	North America
+ Speak	$1B	$152M	Accel	United States	North America
+ Splashtop	$1B	$99M	Sapphire Ventures	United States	North America
+ Squirrel Ai Learning	$1B	$190M		China	Asia
+ Stability AI	$1B	$181M	WPP	United Kingdom	Europe
+ Standard Cognition	$1B	$239M	SoftBank Vision Fund	United States	North America
+ Stax	$1B	$263M	Fulcrum Equity Partners	United States	North America
+ Stegra	$1B	$3B	AMF, GIC	Sweden	Europe
+ StepStar	$1B	$3M	Shanghai State-owned Capital Investment	China	Asia
+ Substrate	$1B	$100M		United States	North America
+ Svante	$1B	$432M	Canada Growth Fund Investment Management	Canada	North America
+ Swiftly	$1B	$216M	BRV Capital Management	United States	North America
+ Swile	$1B	$326M	Hedosophia, SoftBank	France	Europe
+ Sygnum	$1B	$188M	Fulgur Ventures	Switzerland	Europe
+ Tamara	$1B	$556M	Sanabil, Saudi National Bank	Saudi Arabia	Asia
+ Tarana Wireless	$1B	$426M	Digital Alpha	United States	North America
+ Taxfix	$1B	$330M	Ontario Teachers' Pension Plan	Germany	Europe
+ Tebra	$1B	$137M	Golub Capital	United States	North America
+ TechStyle Fashion Group	$1B	$336M	Shining Capital	United States	North America
+ Tencent Trusted Doctors	$1B	$255M	Gaw Capital Partners, HSG	China	Asia
+ Tenglong Holding Group	$1B	$4B	Morgan Stanley Venture Partners, Nanshan Capital	China	Asia
+ Terawatt Infrastructure	$1B	$1B	Vision Ridge Capital Partners	United States	North America
+ TerraPower	$1B	$1B	Bill Gates, SK Group	United States	North America
+ Teya	$1B	$1B	Accel	United Kingdom	Europe
+ Tezign	$1B	$51M	Temasek Holdings	China	Asia
+ thatgamecompany	$1B	$29M	Sequoia Capital, TPG	United States	North America
+ The Open Platform	$1B	$29M	Ribbit Capital	United Arab Emirates	Asia
+ The Zebra	$1B	$259M	Hedosophia	United States	North America
+ Thyme Care	$1B	$234M	Concord Health Partners	United States	North America
+ Timescale	$1B	$181M	Tiger Global Management	United States	North America
+ Tractable	$1B	$185M	SoftBank Vision Fund	United Kingdom	Europe
+ TransferMate	$1B	$130M	RPMI Railpen	Ireland	Europe
+ Tresata	$1B	$51M	GCP Capital Partners	United States	North America
+ Truveta	$1B	$515M	Microsoft	United States	North America
+ Turntide Technologies	$1B	$266M	Climate Investment	United States	North America
+ Turo	$1B	$498M	Allen & Company, Manhattan Venture Partners (MVP)	United States	North America
+ Twelve	$1B	$883M	United Airlines Ventures	United States	North America
+ Typeface	$1B	$165M	Salesforce Ventures	United States	North America
+ Ultima Genomics	$1B	$600M		United States	North America
+ Unstoppable Domains	$1B	$72M	Pantera Capital	United States	North America
+ UPSIDE Foods	$1B	$581M	Abu Dhabi Growth Fund, Temasek Holdings	United States	North America
+ UST	$1B	$250M	Temasek Holdings	United States	North America
+ Vagaro	$1B	$163M	FTV Capital	United States	North America
+ VectorBuilder	$1B	$58M	Guangzhou Yuexiu Industrial Investment Fund	United States	North America
+ Vedantu	$1B	$303M	ABC World Asia	India	Asia
+ Velocity Global	$1B	$500M	Eldridge Industries, Norwest	United States	North America
+ Vendr	$1B	$216M	Craft Ventures, SoftBank Vision Fund	United States	North America
+ Verily	$1B	$4B	Alphabet, Google	United States	North America
+ Verkor	$1B	$1B	Macquarie Group	France	Europe
+ Vidio	$1B	$197M	Dian Swastatika Sentosa	Indonesia	Asia
+ Visby Medical	$1B	$383M	Catalio Capital Management	United States	North America
+ Vise	$1B	$128M	Ribbit Capital	United States	North America
+ Visier	$1B	$217M	Goldman Sachs Asset Management	Canada	North America
+ VNG	$1B	$500K	CyberAgent Capital	Vietnam	Asia
+ VNLIFE	$1B	$550M	Dragoneer Investment Group, General Atlantic	Vietnam	Asia
+ VulcanForms	$1B	$355M	D1 Capital Partners	United States	North America
+ Wayve	$1B	$1B	Uber	United Kingdom	Europe
+ WeLab	$1B	$875M	Allianz X	Hong Kong	Asia
+ Wifi Skeleton Key	$1B	$52M	Eight Roads Ventures	China	Asia
+ Wisk Aero	$1B	$450M	The Boeing Company	United States	North America
+ Womai	$1B	$330M	Taikang Insurance Group	China	Asia
+ World Labs	$1B	$230M	Cisco Systems	United States	North America
+ Xaira Therapeutics	$1B	$1B	ARCH Venture Partners, Foresite Capital	United States	North America
+ Xanadu	$1B	$231M	Georgian	Canada	North America
+ Xendit	$1B	$535M	Coatue, Insight Partners	Indonesia	Asia
+ Xforceplus	$1B	$200M	Temasek Holdings	China	Asia
+ Xiaoice	$1B	$216M	Hillhouse Investment	China	Asia
+ Xiaozhu.com	$1B	$572M	Advantech Capital, YF Capital	China	Asia
+ Xreal	$1B	$334M	Pudong Venture Capital	China	Asia
+ XTransfer	$1B	$168M	D1 Capital Partners	China	Asia
+ YH Global	$1B	$182M	HNF, Yonghua Capital	China	Asia
+ Yidao Yongche	$1B	$790M	China CITIC Bank	China	Asia
+ Yidian Zixun	$1B	$151M	Long De Cheng Zhang Culture Communication	China	Asia
+ YipitData	$1B	$492M	The Carlyle Group	United States	North America
+ Yuanxin Satellite	$1B	$944M	China Development Bank	China	Asia
+ YunQuNa	$1B	$257M	CITIC Capital Holdings, Source Code Capital	China	Asia
+ Yunyinggu	$1B	$121M	HSG	China	Asia
+ Zama	$1B	$139M	Blockchange Ventures, Pantera Capital	Switzerland	Europe
+ Zebec	$1B	$43M	Distributed Global, Solana Ventures	United States	North America
+ zerohash	$1B	$275M	Interactive Brokers Group	United States	North America
+ Zhaogang.com	$1B	$379M	West Fund	China	Asia
+ Zhuanzhuan	$1B	$990M	Xiaomi	China	Asia
+ Zongmu	$1B	$376M	Caitong Capital, Dongyang State-Owned Assets Investment	China	Asia
+ Zwift	$1B	$620M	Kohlberg Kravis Roberts	United States	North America
