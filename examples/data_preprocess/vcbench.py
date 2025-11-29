@@ -15,7 +15,7 @@ import argparse
 import os
 import pandas as pd
 from datasets import Dataset, DatasetDict
-
+import json
 from verl.utils.hdfs_io import copy, makedirs
 
 
@@ -64,6 +64,56 @@ def build_verl_rows(df: pd.DataFrame, split: str, data_source: str):
         )
     return rows
 
+def repeat_ranges(df, ranges, times=10):
+    reps = []
+    n = len(df)
+    for (l, r) in ranges:
+        l = max(0, l)
+        r = min(n - 1, r)
+        if l <= r:
+            reps.append(df.iloc[l:r+1])
+    if not reps:
+        return df
+    to_repeat = pd.concat(reps, ignore_index=True)
+
+    # 复制 times-1 次（原本 df 里已有 1 份）
+    repeated = pd.concat([to_repeat] * (times - 1), ignore_index=True)
+    df_new = pd.concat([df, repeated], ignore_index=True)
+    return df_new
+    
+def synthetic_json_to_df(synthetic_outputs, split_blocks=True):
+    """
+    synthetic_outputs: list[dict], 每个 dict 至少有 key "response"
+    response 里可能包含多条 founder description（通常用空行分隔）
+    返回一个 df，列与 vcbench 对齐：anonymised_prose, success
+    """
+    texts = []
+    for item in synthetic_outputs:
+        resp = item.get("response", "")
+        if not isinstance(resp, str):
+            continue
+        resp = resp.strip()
+        if not resp:
+            continue
+
+        if split_blocks:
+            # 按空行切成多条（VCBench 风格一般每条之间空一行）
+            blocks = [b.strip() for b in resp.split("\n\n") if b.strip()]
+        else:
+            blocks = [resp]
+
+        for b in blocks:
+            # 可选：简单过滤太短/明显不是描述的块
+            if len(b) < 20:
+                continue
+            texts.append(b)
+
+    df_syn = pd.DataFrame({
+        "anonymised_prose": texts,
+        "success": [1] * len(texts)
+    })
+    return df_syn
+
 # python vcbench.py --csv_path VCbench.csv --local_save_dir $PWD/../../vcbench
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -89,25 +139,21 @@ if __name__ == "__main__":
     split_idx = 3000
     df_train = df.iloc[:split_idx].reset_index(drop=True)
     df_test = df.iloc[split_idx:].reset_index(drop=True)
-    def repeat_ranges(df, ranges, times=10):
-        reps = []
-        n = len(df)
-        for (l, r) in ranges:
-            l = max(0, l)
-            r = min(n - 1, r)
-            if l <= r:
-                reps.append(df.iloc[l:r+1])
-        if not reps:
-            return df
-        to_repeat = pd.concat(reps, ignore_index=True)
 
-        # 复制 times-1 次（原本 df 里已有 1 份）
-        repeated = pd.concat([to_repeat] * (times - 1), ignore_index=True)
-        df_new = pd.concat([df, repeated], ignore_index=True)
-        return df_new
     
-    repeat_ranges_list = [(0, 136), (1502, 1636)]
-    df_train = repeat_ranges(df_train, repeat_ranges_list, times=15)
+    with open("synthetic_outputs.json", "r") as f:
+        synthetic_outputs = json.load(f)
+
+    # 把 synthetic response 变成 positive df
+    df_syn = synthetic_json_to_df(synthetic_outputs, split_blocks=True)
+    print(f"Synthetic positives loaded: {len(df_syn)}")
+
+    # 拼到训练集里
+    df_train = pd.concat([df_train, df_syn], ignore_index=True)
+    
+    
+    # repeat_ranges_list = [(0, 136), (1502, 1636)]
+    # df_train = repeat_ranges(df_train, repeat_ranges_list, times=15)
     
     df_train = df_train.sample(frac=1.0, random_state=args.seed).reset_index(drop=True)
     
