@@ -47,7 +47,7 @@ python -m verl.trainer.main_ppo \
     trainer.experiment_name='qwen3_8b_vcbench' \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
-    trainer.save_freq=20 \
+    trainer.save_freq=40 \
     trainer.max_actor_ckpt_to_keep=1 \
     trainer.max_critic_ckpt_to_keep=1 \
     trainer.test_freq=100 \
