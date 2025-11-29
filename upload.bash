@@ -1,0 +1,1 @@
+python upload.py --model_path checkpoints/ --repo_id MartinJYHuang/Qwen-vc
