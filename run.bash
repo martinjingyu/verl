@@ -5,7 +5,7 @@ export CUDA_VISIBLE_DEVICES=0,1
 # ====== 路径自己改 ======
 TRAIN_FILE=$PWD/vcbench/train.parquet
 TEST_FILE=$PWD/vcbench/test.parquet
-MODEL_PATH=Qwen/Qwen3-8B              # 或 /your/local/Qwen3-8B
+MODEL_PATH=deepseek-ai/DeepSeek-R1-Distill-Qwen-14B             # 或 /your/local/Qwen3-8B
 REWARD_PATH=$PWD/verl/utils/reward_score/vcbench.py
 REWARD_NAME=compute_score            # 你 reward 里的函数名
 
@@ -20,7 +20,7 @@ python -m verl.trainer.main_ppo \
     data.max_response_length=512 \
     data.filter_overlong_prompts=True \
     data.truncation='error' \
-    actor_rollout_ref.model.path=Qwen/Qwen3-8B \
+    actor_rollout_ref.model.path=$MODEL_PATH \
     actor_rollout_ref.actor.optim.lr=1e-6 \
     actor_rollout_ref.model.use_remove_padding=True \
     actor_rollout_ref.actor.ppo_mini_batch_size=16 \
@@ -44,7 +44,7 @@ python -m verl.trainer.main_ppo \
     trainer.critic_warmup=0 \
     trainer.logger='["console"]' \
     trainer.project_name='vcbench' \
-    trainer.experiment_name='qwen3_8b_vcbench' \
+    trainer.experiment_name='deepseek-qwen-14B_vcbench' \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=80 \

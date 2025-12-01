@@ -19,9 +19,20 @@ import json
 from verl.utils.hdfs_io import copy, makedirs
 
 
-SYSTEM_PROMPT = """You are an expert in venture capital tasked with identifying successful founders from their unsuccessful counterparts. 
-All founders under consideration are sourced from LinkedIn and Crunchbase profiles of companies that have raised between $100K and $4M in funding. 
-A successful founder is defined as one whose company has achieved either a total funding of over $500M or an exit/IPO valued at over $500M."""
+SYSTEM_PROMPT = """You are an expert venture capitalist.
+Your task is to PREDICT whether this founder is likely to become a 'successful founder' in the future, based on an early-stage profile.
+
+Important context:
+- The descriptions are from early-stage founders whose companies have only raised $100K–$4M so far.
+- Therefore the text will NOT contain evidence of $500M funding or a $500M exit yet.
+- You must infer potential from signals such as team quality, traction indicators, market size, business model, timing, and founder experience.
+
+Definition for evaluation:
+A 'successful founder' means that in the future their company will eventually achieve either:
+(1) total funding > $500M, OR
+(2) an exit/IPO valuation > $500M.
+
+Predict Yes/No for FUTURE success likelihood, not whether they already achieved it."""
 
 USER_PROMPT_TMPL = """Given the following founder description:
        {anonymised_prose},
