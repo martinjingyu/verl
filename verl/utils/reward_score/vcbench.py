@@ -1,50 +1,68 @@
 import re
-import math
 import json
-from typing import Dict, Any
-from sentence_transformers import SentenceTransformer
 import numpy as np
+from functools import lru_cache
+from typing import Dict, Any
 
-# ---- embedding 模型（建议常用小模型，稳定省显存） ----
-# 你也可以换成更强的 e5 / bge / gte
-_EMB_MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+# ---------- lazy embedding model ----------
+_EMB_MODEL = None
+
+def _get_emb_model():
+    global _EMB_MODEL
+    if _EMB_MODEL is None:
+        from sentence_transformers import SentenceTransformer
+        # 小模型足够做相似度 shaping，且更稳
+        _EMB_MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+    return _EMB_MODEL
 
 def _cosine(a, b):
-    a = a / (np.linalg.norm(a) + 1e-8)
-    b = b / (np.linalg.norm(b) + 1e-8)
-    return float(np.dot(a, b))
+    return float(np.dot(a, b) / ((np.linalg.norm(a) + 1e-8) * (np.linalg.norm(b) + 1e-8)))
 
-def _embed(text: str):
-    return _EMB_MODEL.encode(text, normalize_embeddings=True)
+@lru_cache(maxsize=4096)
+def _embed_cached(text: str):
+    model = _get_emb_model()
+    v = model.encode(text, normalize_embeddings=True)
+    return v.astype(np.float32)
 
-def _input_output_sim_emb(founder_desc: str, solution_str: str) -> float:
-    """
-    embedding cosine similarity in [0,1] (roughly)
-    并对过高相似度做轻微折扣，防止复读输入。
-    """
-    if not founder_desc:
+def _sim_emb(founder_desc: str, reasoning: str) -> float:
+    if not founder_desc or not reasoning:
         return 0.0
-
-    vin = _embed(founder_desc)
-    vout = _embed(solution_str)
-    sim = _cosine(vin, vout)  # [-1,1] but usually [0,1] for these models
-
-    # clamp to [0,1]
+    vin = _embed_cached(founder_desc)
+    vout = _embed_cached(reasoning)
+    sim = _cosine(vin, vout)
     sim = max(0.0, min(1.0, sim))
 
-    # 复读折扣：>0.75 开始回落
+    # 防复读：过高相似度轻微回落
     if sim <= 0.75:
         return sim
-    else:
-        # 0.75~1.0 区间线性回落到 0.75
-        return 0.75 - (sim - 0.75) * 0.5  # sim=1 -> 0.625
+    return 0.75 - (sim - 0.75) * 0.5  # sim=1 -> 0.625
 
 
-# ===== 你原来的 reward 主体（保持不变） =====
+# ---------- robust prediction extraction ----------
 def _extract_yes_no(solution_str: str):
     text = solution_str.strip().lower()
     tokens = re.findall(r"\b(yes|no)\b", text)
-    return tokens[0] if tokens else None
+    if not tokens:
+        return None
+    return tokens[-1]  # 取最后一次明确表态更稳
+
+def _extract_reasoning(solution_str: str):
+    """
+    尽量从 JSON 里拿 reasoning 来算 embedding 相似度。
+    拿不到就退化成全串（但相似度权重很小，不会伤训练）。
+    """
+    try:
+        if "</think>" in solution_str:
+           reasoning = solution_str.split("</think>")[0].strip()
+           return reasoning
+        obj = json.loads(solution_str)
+        r = obj.get("reasoning", "")
+        if isinstance(r, str):
+            return r.strip()
+    except Exception:
+        pass
+    return solution_str
+
 
 def compute_score(
     data_source,
@@ -67,14 +85,11 @@ def compute_score(
         pred_yes = None
     else:
         pred_yes = (pred == "yes")
-        if pred_yes and gt_yes:
-            base_score = 1.0
-        elif pred_yes and not gt_yes:
-            base_score = 0.5
-        elif (not pred_yes) and (not gt_yes):
-            base_score = 0.8
-        else:
-            base_score = 0.2
+        if pred_yes and gt_yes: base_score = 1.0
+        elif pred_yes and not gt_yes: base_score = 0.5
+        elif (not pred_yes) and (not gt_yes): base_score = 0.8
+        else: base_score = 0.2
+
     breakdown["base_score"] = base_score
 
     # 2) decisiveness
@@ -94,16 +109,23 @@ def compute_score(
         )
     breakdown["brevity_score"] = brevity_score
 
-    # 4) embedding similarity
-    founder_desc = extra_info.get("anonymised_prose")
-    sim_score = _input_output_sim_emb(founder_desc, solution_str)
+    # 4) embedding similarity (reasoning vs input)
+    founder_desc = (
+        extra_info.get("anonymised_prose")
+        or extra_info.get("input")
+        or extra_info.get("prompt")
+        or kwargs.get("founder_description")
+        or ""
+    )
+    reasoning = _extract_reasoning(solution_str)
+    sim_score = _sim_emb(founder_desc, reasoning)
     breakdown["sim_score_emb"] = sim_score
 
     # final weighted sum
-    w_base = 0.80
+    w_base = 0.85
     w_decisive = 0.05
     w_brevity = 0.05
-    w_sim = 0.1  # 小权重，防止复读导向
+    w_sim = 0.05   # embedding 必须小权重
 
     final_score = (
         w_base * base_score +
