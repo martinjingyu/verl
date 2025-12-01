@@ -5,7 +5,7 @@ export CUDA_VISIBLE_DEVICES=0,1
 # ====== 路径自己改 ======
 TRAIN_FILE=$PWD/vcbench/train.parquet
 TEST_FILE=$PWD/vcbench/test.parquet
-MODEL_PATH=Qwen/Qwen3-14B             # 或 /your/local/Qwen3-8B
+MODEL_PATH=Qwen/Qwen3-8B             # 或 /your/local/Qwen3-8B
 REWARD_PATH=$PWD/verl/utils/reward_score/vcbench.py
 REWARD_NAME=compute_score            # 你 reward 里的函数名
 
@@ -46,7 +46,7 @@ python -m verl.trainer.main_ppo \
     trainer.critic_warmup=0 \
     trainer.logger='["console"]' \
     trainer.project_name='vcbench' \
-    trainer.experiment_name='qwen-14B_vcbench' \
+    trainer.experiment_name='qwen-8B_vcbench' \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=80 \
