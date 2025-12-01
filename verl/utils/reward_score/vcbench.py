@@ -4,39 +4,39 @@ import numpy as np
 from functools import lru_cache
 from typing import Dict, Any
 
-# ---------- lazy embedding model ----------
-_EMB_MODEL = None
+# # ---------- lazy embedding model ----------
+# _EMB_MODEL = None
 
-def _get_emb_model():
-    global _EMB_MODEL
-    if _EMB_MODEL is None:
-        from sentence_transformers import SentenceTransformer
-        # 小模型足够做相似度 shaping，且更稳
-        _EMB_MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2", device="cpu")
-        _EMB_MODEL.eval()
-    return _EMB_MODEL
+# def _get_emb_model():
+#     global _EMB_MODEL
+#     if _EMB_MODEL is None:
+#         from sentence_transformers import SentenceTransformer
+#         # 小模型足够做相似度 shaping，且更稳
+#         _EMB_MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2", device="cpu")
+#         _EMB_MODEL.eval()
+#     return _EMB_MODEL
 
 def _cosine(a, b):
     return float(np.dot(a, b) / ((np.linalg.norm(a) + 1e-8) * (np.linalg.norm(b) + 1e-8)))
 
-@lru_cache(maxsize=4096)
-def _embed_cached(text: str):
-    model = _get_emb_model()
-    v = model.encode(text, normalize_embeddings=True)
-    return v.astype(np.float32)
+# @lru_cache(maxsize=4096)
+# def _embed_cached(text: str):
+#     model = _get_emb_model()
+#     v = model.encode(text, normalize_embeddings=True)
+#     return v.astype(np.float32)
 
-def _sim_emb(founder_desc: str, reasoning: str) -> float:
-    if not founder_desc or not reasoning:
-        return 0.0
-    vin = _embed_cached(founder_desc)
-    vout = _embed_cached(reasoning)
-    sim = _cosine(vin, vout)
-    sim = max(0.0, min(1.0, sim))
+# def _sim_emb(founder_desc: str, reasoning: str) -> float:
+#     if not founder_desc or not reasoning:
+#         return 0.0
+#     vin = _embed_cached(founder_desc)
+#     vout = _embed_cached(reasoning)
+#     sim = _cosine(vin, vout)
+#     sim = max(0.0, min(1.0, sim))
 
-    # 防复读：过高相似度轻微回落
-    if sim <= 0.75:
-        return sim
-    return 0.75 - (sim - 0.75) * 0.5  # sim=1 -> 0.625
+#     # 防复读：过高相似度轻微回落
+#     if sim <= 0.75:
+#         return sim
+#     return 0.75 - (sim - 0.75) * 0.5  # sim=1 -> 0.625
 
 
 # ---------- robust prediction extraction ----------
@@ -119,7 +119,7 @@ def compute_score(
         or ""
     )
     reasoning = _extract_reasoning(solution_str)
-    sim_score = _sim_emb(founder_desc, reasoning)
+   #  sim_score = _sim_emb(founder_desc, reasoning)
     breakdown["sim_score_emb"] = sim_score
 
     # final weighted sum
@@ -131,8 +131,8 @@ def compute_score(
     final_score = (
         w_base * base_score +
         w_decisive * decisiveness_score +
-        w_brevity * brevity_score +
-        w_sim * sim_score
+        w_brevity * brevity_score
+      #   w_sim * sim_score
     )
 
     extra_info["score_breakdown"] = breakdown
