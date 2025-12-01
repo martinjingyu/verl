@@ -120,7 +120,6 @@ def compute_score(
     )
     reasoning = _extract_reasoning(solution_str)
    #  sim_score = _sim_emb(founder_desc, reasoning)
-    breakdown["sim_score_emb"] = sim_score
 
     # final weighted sum
     w_base = 0.85
