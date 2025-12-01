@@ -12,7 +12,8 @@ def _get_emb_model():
     if _EMB_MODEL is None:
         from sentence_transformers import SentenceTransformer
         # 小模型足够做相似度 shaping，且更稳
-        _EMB_MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+        _EMB_MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2", device="cpu")
+        _EMB_MODEL.eval()
     return _EMB_MODEL
 
 def _cosine(a, b):
@@ -44,7 +45,7 @@ def _extract_yes_no(solution_str: str):
     tokens = re.findall(r"\b(yes|no)\b", text)
     if not tokens:
         return None
-    return tokens[-1]  # 取最后一次明确表态更稳
+    return tokens[-1]  
 
 def _extract_reasoning(solution_str: str):
     """
