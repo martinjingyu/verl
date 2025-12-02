@@ -1,1 +1,1 @@
-python upload.py --model_path checkpoints/vcbench/qwen3_8b_vcbench/global_step_768/actor/huggingface --repo_id MartinJYHuang/Qwen-vc-v2
+python upload.py --model_path checkpoints/vcbench/qwen-8B_vcbench/global_step_744/actor/huggingface --repo_id MartinJYHuang/Qwen-vc-v2
